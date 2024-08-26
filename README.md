@@ -67,7 +67,7 @@
 
 # <font color="red">**Project Report Collaboration Insights**</font>
 
-URL del repositorio de la Organizacion: <https://github.com/Grupo1-AplicacionesWeb-SW52/informe-trabajo>
+URL del repositorio de la Organizacion: < >
 
 
 # <font color="red">**Contenido**</font>

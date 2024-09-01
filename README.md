@@ -46,22 +46,23 @@
         <td>DESCRIPCION DE MODIFICACION</td>
     </tr>
     <tr>
-        <td>01</td>
+        <td>1.0</td>
         <td>23/08/2024</td>
-        <td> L </td>
-        <td>Formato del documento</td>
+        <td>Alejandro Nicolás Barturen Guzmán - U202214406
+          Rodrigo Jesús Salvador Rodríguez - U202213646 </td>
+        <td>Primera versión del Proyecto Final (TB1). Se desarrollaron todos las partes para culminar con el capítulo 1</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>1.1</td>
+        <td>27/08/2024</td>
+        <td>Alejandro Nicolás Barturen Guzmán - U202214406</td>
+        <td>Implementación de la parte de Competidores y el Diseño de entrevistas</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>1.2</td>
+        <td>29/08/2024</td>
+        <td>Alejandro Nicolás Barturen Guzmán - U202214406</td>
+        <td>Implementación de las US y el to-be map</td>
     </tr>
 </table>
 

@@ -374,73 +374,41 @@ Cuando implementamos la funcionalidad de informes y recomendaciones en empresas 
 ### **1.2.2.4. Lean UX Canvas**
 
 ##### 1.2.2.1. Lean UX Canvas
-<table>
-  <tr>
-    <th valign="top">
-      <p><b>1. Business Problem</b></p>
-      <p> .</p>
-    </th>
-    <th valign="top">
-      <p><b>2. Business Outcomes</b></p>
-      <p>-   .</p>
-      <p>-  .</p>
-      <p>-  .</p>
-      <p>-  .</p>
-    </th>
-    <th rowspan="2" valign="top">
-      <p><b>5. Solutions</b></p>
-      <p>- .</p>
-      <p>-  .</p>
-    </th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p><b>3. Users</b></p>
-      <p>-  .</p>
-      <p>-  .</p>
-      <p>-  .</p>
-    </td>
-    <td valign="top">
-      <p><b>4. User Benefits</b></p>
-      <p>-  .</p>
-      <p>-  </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p><b>6. Hypothesis</b></p>
-      <p>- .</p>
-      <p>-  </p>
-    </td>
-    <td valign="top">
-      <p><b>7. What’s the most important thing we need to learn first?</b></p>
-      <p> .</p>
-    </td>
-    <td valign="top">
-      <p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b></p>
-      <p>.</p>
-    </td>
-  </tr>
-</table>
-
+![image](imgs/lean-canvas.png)
 
 ## **1.3. Segmentos objetivo**
-
- 
-
-**1.**
-
- 
-
-- #### Caracteristicas Demograficas
- 
-
-
-**2. **
-
- 
-
-- #### Caracteristicas Demograficas
+<table>
+  <tr>
+    <td></td>
+    <td>Segmento 1</td>
+    <td>Segmento 2</td>
+  </tr>
+   <tr>
+    <td>Variables</td>
+    <td>Empresas de Manufactura</td>
+    <td>Empresas de Logística y Transporte</td>
+  </tr>
+   <tr>
+    <td>Geográfica</td>
+    <td>Presencia global, con un enfoque en regiones con alta actividad industrial, como América del Norte y Europa.</td>
+    <td>Concentradas en áreas con alta demanda de transporte y comercio, como puertos y zonas metropolitanas clave en Asia y América del Sur.</td>
+  </tr>
+   <tr>
+    <td>Demografia</td>
+    <td>Empresas con más de 500 empleados y múltiples instalaciones de producción.</td>
+    <td>Empresas con flotas de más de 50 vehículos y que operan en varias regiones</td>
+  </tr>
+   <tr>
+    <td>Psicológica</td>
+    <td>Motivadas por la necesidad de cumplir con regulaciones ambientales y reducir costos operativos. Buscan soluciones tecnológicas para mejorar la sostenibilidad y la eficiencia.</td>
+    <td>Enfocadas en la optimización de rutas y la reducción de la huella de carbono. Están interesadas en adoptar tecnologías innovadoras para mantenerse competitivas.</td>
+  </tr>
+  <tr>
+    <td>Función de comportamiento</td>
+    <td>Activamente buscan integrar tecnologías que optimicen su cadena de suministro y reduzcan su impacto ambiental. Participan en programas de sostenibilidad corporativa.</td>
+    <td>Prefieren soluciones que les permitan monitorear y optimizar el uso de combustible y reducir el tiempo de inactividad. Están involucradas en iniciativas de transporte verde y buscan continuamente mejorar la eficiencia operativa.</td>
+  </tr>
+</table>
  
 # <font color="red"> **Capítulo II: Requirements Elicitation & Analysis**</font>
 ## **2.1. Competidores**

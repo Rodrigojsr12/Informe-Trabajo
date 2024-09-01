@@ -317,7 +317,7 @@ Este desafío surge de la falta de herramientas adecuadas para la evaluación de
 11. El mayor riesgo de del servicio es la posible falta de adopción por parte de empresas que aún no priorizan la sostenibilidad. 
 12. Lo resolveremos realizando campañas educativas que demuestren los beneficios financieros y operativos de una cadena de suministro sostenible. 
 
-- **User Assumptions:**\
+- **User Assumptions:**
   
 ¿Quién es el usuario? \
 El usuario es un gerente de cadena de suministro, director de sostenibilidad o ejecutivo de operaciones en empresas medianas y grandes que buscan cumplir con estándares ambientales más rigurosos.
@@ -433,70 +433,75 @@ Cuando implementamos la funcionalidad de informes y recomendaciones en empresas 
         <td colspan="2">
             (En la cabecera colocar por cada competidor nombre y logo)
         </td>
-        <td>Su Startup</td>
-        <td>Competidor 1</td>
-        <td>Competidor 2</td>
-        <td>Competidor 3</td>
+        <td>EcoRoute</td>
+        <td>JAGGAER
+        <img src="imgs/jaggaer.png"></td>
+        <td>SAP Ariba
+        <img src="imgs/sap.png"></td>
+        <td>EcoVadis
+        <img src="imgs/ecovadis.png"></td>
     </tr>
     <tr>
         <th rowspan="2"> Perfil</th>
         <td>Overview</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Una plataforma para optimizar cadenas de suministro de manera sostenible, ayudando a las empresas a reducir su huella de carbono y mejorar la eficiencia logística.</td>
+        <td>Proveedor líder en gestión de compras y cadena de suministro, especializado en soluciones integradas de adquisición, gestión de proveedores y análisis.</td>
+        <td>Plataforma de SAP para la gestión de adquisiciones y relaciones con proveedores, destacada por su alcance global y funcionalidad integral.</td>
+        <td>Especializado en la evaluación de sostenibilidad y responsabilidad empresarial, proporcionando calificaciones y análisis de desempeño de proveedores en términos de sostenibilidad.</td>
     </tr>
     <tr>
         <td>
             Ventaja competitiva ¿Qué valor ofrece a los clientes?
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Proporciona una solución integral y personalizada para la optimización de cadenas de suministro con un enfoque en la sostenibilidad y mejorando la eficiencialogística.</td>
+        <td>Ofrece una suite de herramientas avanzadas para la gestión de compras y cadena de suministro con capacidades analíticas robustas.</td>
+        <td>Brinda una plataforma global y completamente integrada para la gestión de compras, contratos y relaciones con proveedores, con una amplia red de proveedores.</td>
+        <td>Proporciona evaluaciones detalladas de sostenibilidad de proveedores, ayudando a las empresas a cumplir con sus objetivos de responsabilidad social y ambiental.</td>
     </tr>
     <tr>
         <th rowspan="2"> Perfil de Marketing</th>
         <td>Mercado objetivo</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>-Empresas de Manufactura
+          -Empresas de Logística y Transporte</td>
+        <td>-Empresas que buscan soluciones avanzadas para gestión de adquisiciones y cadena de suministro.</td>
+        <td>-Grandes empresas y corporaciones que necesitan una solución integral de gestión de adquisiciones y suministro.</td>
+        <td>-Empresas que necesitan evaluar y mejorar la sostenibilidad de sus cadenas de suministro y proveedores.</td>
     </tr>
     <tr>
         <td>
             Estrategias de marketing
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>-Propaganda por medio de redes sociales</td>
+        <td>-Participación en eventos de la industria 
+          -Marketing basado en contenido digital</td>
+        <td>-Creación de webinars y eventos </td>
+        <td>-Participación en eventos de la industria </td>
     </tr>
     <tr>
         <th rowspan="3"> Perfil de Producto</th>
         <td>Productos & Servicios</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Una plataforma de optimización de cadenas de suministro que se enfoca en sostenibilidad y eficiencia logística.</td>
+        <td>Una plataforma que brinda soluciones de gestión de compras, gestión de proveedores, y análisis de datos relacionados.</td>
+        <td>Plataforma de gestión de adquisiciones, contratos y relaciones con proveedores.</td>
+        <td>Evaluaciones de sostenibilidad de proveedores, informes de desempeño y herramientas de mejora.</td>
     </tr>
     <tr>
         <td>
             Precios & Costos
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Ofrece un modelo de suscripción  con planes escalonados</td>
+        <td>Ofrece un modelo de suscripción  con planes escalonados</td>
+        <td>Ofrece un modelo de suscripción  con planes escalonados</td>
+        <td>Ofrece un modelo de suscripción  con planes escalonados</td>
     </tr>
     <tr>
         <td>
             Canales de distribución (Web y/o Móvil)
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Web y Móvil</td>
+        <td>Web y Móvil</td>
+        <td>Web y Móvil</td>
+        <td>Web y Móvil</td>
     </tr>
     <tr>
         <th rowspan="5"> Análisis SWOT</th>
@@ -508,41 +513,83 @@ Cuando implementamos la funcionalidad de informes y recomendaciones en empresas 
         <td>
             Fortalezas
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Enfoque especializado en sostenibilidad y eficiencia; solución personalizada para diferentes industrias.</td>
+        <td>Amplia gama de herramientas avanzadas y capacidades analíticas robustas.</td>
+        <td>Red global extensa y solución integral de gestión de adquisiciones.</td>
+        <td>Experiencia en evaluaciones de sostenibilidad y una base de datos sólida de proveedores.</td>
     </tr>
     <tr>
         <td>
             Debilidades
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Limitada presencia en el mercado y menor reconocimiento en comparación con competidores establecidos.</td>
+        <td>Complejidad en la implementación y posibles altos costos.</td>
+        <td>Puede ser costoso para empresas más pequeñas y complejo de implementar.</td>
+        <td>Dependencia de la disponibilidad y precisión de los datos de los proveedores.</td>
     </tr>
     <tr>
         <td>
            Oportunidades
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Creciente demanda de soluciones sostenibles en la cadena de suministro; posibilidad de expansión en mercados internacionales.</td>
+        <td>Expansión a nuevos mercados y sectores; desarrollo de nuevas tecnologías.</td>
+        <td>Aumento de la demanda de soluciones integradas a nivel global.</td>
+        <td>Creciente enfoque en la sostenibilidad y la responsabilidad corporativa por parte de empresas.</td>
     </tr>
     <tr>
         <td>
             Amenazas
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Competencia intensa de empresas establecidas; desafíos en la adaptación rápida a cambios del mercado.</td>
+        <td>Presión de costos y la necesidad de mantener la innovación constante.</td>
+        <td>Alta competencia y necesidad de diferenciarse en un mercado saturado.</td>
+        <td>Riesgo de datos inexactos y dependencia de la cooperación de los proveedores.
+        </td>
     </tr>
 </TABLE>
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
+
+**1. Enfoque en empresas medianas y sectores desatendidos:**\
+
+**Estrategia:** 
+Aprovechar la brecha del mercado entre empresas medianas y sectores que requieren soluciones sostenibles más accesibles, donde los competidores como SAP Ariba y JAGGAER pueden ser percibidos como demasiado costosos o complejos.\
+\
+**Tácticas:**
+- Diseñar planes de suscripción escalonados y flexibles que sean accesibles para empresas de tamaño medio, destacando la relación costo-beneficio.
+- Realizar campañas de marketing digital específicas dirigidas a sectores como manufactura y logística que buscan optimizar su cadena de suministro con soluciones sostenibles.
+\
+**2. Fortalecimiento de la presencia digital y marketing de contenidos:**
+
+**Estrategia:**
+Mejorar la visibilidad y presencia digital de GreenSync mediante una estrategia de marketing de contenidos centrada en la sostenibilidad y la eficiencia de la cadena de suministro, aprovechando las limitaciones de los competidores en marketing digital específico.\
+\
+**Tácticas:**
+- Crear una serie de blogs, guías, y estudios de caso que aborden problemas comunes en la gestión sostenible de la cadena de suministro y cómo EcoRoute proporciona soluciones efectivas.
+- Implementar una estrategia de SEO (Optimización de Motores de Búsqueda) para posicionar a GreenSync como líder en temas de sostenibilidad y eficiencia logística, superando a competidores en términos de visibilidad en línea.
+- Desarrollar webinars y podcasts sobre tendencias en sostenibilidad y tecnología en la cadena de suministro para atraer a un público más amplio y educar al mercado objetivo.
+\
+\
+**3. Refuerzo de la comunicación de beneficios financieros junto a los de sostenibilidad:**
+**Estrategia:**
+Posicionar a EcoRoute como no solo una solución sostenible, sino también una herramienta para ahorrar costos y mejorar la rentabilidad, diferenciándose de competidores que pueden estar más centrados únicamente en sostenibilidad o eficiencia operativa.\
+\
+**Tácticas:**
+- Desarrollar una calculadora de ROI (Retorno de Inversión) en el sitio web para mostrar a los clientes potenciales los beneficios financieros de usar EcoRoute.
+- Crear casos de estudio detallados que demuestran cómo la plataforma ha ayudado a otras empresas a reducir costos, optimizar recursos y cumplir con regulaciones ambientales.
+- Incorporar mensajes de marketing que combinen el impacto positivo en sostenibilidad con la mejora de la eficiencia y reducción de costos, destacando cómo EcoRoute ofrece lo mejor de ambos mundos.
+
+\
+**4. Adaptación y flexibilidad para cambios regulatorios**
+
+**Estrategia:** Mantenerse proactivo y adaptable a los cambios regulatorios ambientales y de sostenibilidad, ofreciendo una ventaja competitiva frente a competidores que pueden ser menos ágiles en la adaptación.\
+\
+**Tácticas:**
+- Monitorear continuamente cambios regulatorios a nivel global y adaptar rápidamente la plataforma para cumplir con las nuevas normativas.
+- Desarrollar módulos específicos dentro de EcoRoute que ayuden a las empresas a seguir cumpliendo con regulaciones ambientales cambiantes, como reportes automáticos de emisiones.
+- Comunicar a los clientes las actualizaciones y adaptaciones de la plataforma que respondan a nuevos requisitos regulatorios, asegurando que siempre estén preparados para cumplir.
+
+
 
 ## **2.2. Entrevistas**
 ### **2.2.1. Diseño de entrevistas**

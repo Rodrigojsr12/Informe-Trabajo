@@ -13,9 +13,9 @@
 <h3 align="center"> Desarrollo de Aplicaiones Open Source - SW56 </h3>
 <h3 align="center"> Profesor del Curso:  </h3>
 <h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
-<h3 align="center"> EMPRESA DE INICIO: nombre </h3>
+<h3 align="center"> EMPRESA DE INICIO: GreenSync </h3>
 
-<h3 align="center"> PRODUCTO: "NOMBRE"</h3>
+<h3 align="center"> PRODUCTO: "EcoLogix"</h3>
 
 <div align="center">
 
@@ -225,23 +225,64 @@ Visión: Ecologix será una de las principales causas en la reducción de la con
 
 ## **1.2. Solution Profile**
 
+Product Name: EcoLogix  \
+Product Description:  \
+Monetización: EcoLogix funciona mediante un modelo de suscripción mensual, con una prueba gratuita en el Plan Básico de 10 días para que los nuevos usuarios puedan conocer cómo funciona el producto. Hay tres planes de suscripción disponibles para que el usuario sea libre de elegir el que mejor se acomode a sus necesidades. 
+- Plan Básico: Evaluación de proveedores y gestión básica de la cadena de suministro. 
+- Plan Profesional: Análisis de impacto ambiental y optimización de procesos. 
+- Plan Corporativo: Integración con sistemas existentes y consultoría especializada.
+
+
 ### **1.2.1 Antecedentes y problemática**
 ### What (¿Qué?)
- 
+**¿Cuál es el problema?** \
+Las cadenas de suministro actuales enfrentan varios desafíos en términos de sostenibilidad y eficiencia. Muchas empresas tienen dificultades para evaluar el impacto ambiental de sus operaciones y gestionar sus proveedores de manera que se minimice el impacto ecológico. Además, optimizar la logística para reducir costos y emisiones de dióxido de carbono es un reto constante que no siempre se aborda de manera efectiva.
+
 
 ### Who (¿Quién?)
- 
+
+**¿Quienes están involucrados?**\
+Están involucrados las personas encargadas de la cadena de suministro, los gerentes de operaciones, los responsables de sostenibilidad, los analistas de datos y los directores ejecutivos que buscan cumplir con las metas de sostenibilidad de la empresa. Además, los proveedores, las autoridades regulatorias y los consumidores finales también son partes interesadas clave.
+
+**¿Quién lo utiliza?**\
+Utilizan la plataforma las empresas que buscan mejorar la sostenibilidad y la eficiencia de sus cadenas de suministro, incluyendo grandes corporaciones, medianas empresas y, potencialmente, pequeñas empresas que desean empezar a integrar prácticas más sostenibles.
+
 ### Where (¿Dónde?)
- 
+
+**¿Dónde surge el problema?**\
+El problema surge a lo largo de toda la cadena de suministro, desde la selección de materias primas hasta la entrega del producto final. Las empresas pueden enfrentarse a estos desafíos en sus oficinas centrales, plantas de producción, centros de distribución y en cualquier lugar donde se tomen decisiones sobre la cadena de suministro.\
+**¿A dónde se dirige?**\
+El problema se dirige hacia una necesidad creciente de soluciones que integren la sostenibilidad en la cadena de suministro. Con el aumento de la conciencia ambiental y la demanda de transparencia por parte de los consumidores, las empresas están bajo presión para mejorar sus prácticas y reportar de manera precisa su impacto ambiental.
+
 
 ### When (¿Cuándo?)
- 
+
+**¿Cuándo sucede el problema?**\
+El problema surge en cualquier momento en que una empresa gestiona su cadena de suministro de forma ineficiente. Esto puede ser durante la selección de proveedores, la planificación de la logística, o al intentar cumplir con normativas ambientales. Con el creciente enfoque en la sostenibilidad y la presión regulatoria, este problema se está volviendo más urgente y relevante para las empresas en todo momento.
+
+
 
 ### Why (¿Por qué?)
- 
+**¿Cuál es la causa del problema?**\
+La causa del problema radica en la falta de herramientas integradas y accesibles que permitan a las empresas evaluar y gestionar sus cadenas de suministro con un enfoque en la sostenibilidad. Muchas empresas carecen de la tecnología adecuada y los conocimientos necesarios para analizar de manera efectiva el impacto ambiental de sus operaciones y tomar decisiones informadas que optimicen tanto la sostenibilidad como la eficiencia.
+
+
 ### How (¿Cómo?)
+**¿Cómo se utilizará el producto?**\
+El producto se utilizará a través de una plataforma en línea que proporcionará herramientas para evaluar a los proveedores, gestionar el impacto ambiental y optimizar la logística. Los usuarios podrán acceder a análisis detallados, recibir recomendaciones basadas en datos y colaborar con otros departamentos dentro de la empresa para implementar mejoras en la cadena de suministro.
+
+**¿Cómo lograremos desarrollar la correcta gestión de cultivos de champiñones dentro de la plataforma?**\
+Este es un ejemplo específico que puede ser extrapolado a la gestión de cualquier tipo de suministro. En el caso de los champiñones, la plataforma permitiría a los usuarios gestionar el ciclo de producción y distribución, optimizando los recursos y minimizando el impacto ambiental. A través de la plataforma, los agricultores y distribuidores de champiñones podrían analizar sus procesos, reducir el desperdicio y asegurarse de que sus prácticas cumplan con los estándares de sostenibilidad.
+
+
  
 ### How much (¿Cuánto?)
+
+**¿Cuál es la magnitud del problema?** \
+La magnitud del problema es significativa, afectando a múltiples industrias que dependen de cadenas de suministro complejas. La falta de sostenibilidad y eficiencia en estas cadenas no solo aumenta los costos operativos, sino que también contribuye significativamente a las emisiones de carbono y al agotamiento de recursos naturales.\
+**¿Qué porcentaje del personal de la industria se verá beneficiado por el servicio?**\
+Se estima que un alto porcentaje del personal involucrado en la gestión de la cadena de suministro, incluyendo gerentes de operaciones, responsables de sostenibilidad, y analistas, se beneficiará directamente del servicio. Esto podría representar entre un 20% y un 50% del personal en industrias que dependen en gran medida de cadenas de suministro extensas y complejas.
+
  
 ### **1.2.2 Lean UX Process**
 ### 1.2.2.1. Lean UX Problem Statements

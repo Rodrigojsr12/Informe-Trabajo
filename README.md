@@ -204,8 +204,25 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo3-OpenSource-SW
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
+GreenSync es una startup innovadora que se centra en ofrecer una solución  a las empresas ayudando a optimizar sus  cadenas de suministros y volverlas  más sostenibles y eficientes.Todo esto haciendo uso de su plataforma,EcoRoute. Ofrece servicios que involucran desde el análisis de los proveedores para medir su eficiencia y cumplimiento con los estándares medioambientales,  Supervisión de las operaciones en la cadena de suministros y Análisis del impacto ambiental, hasta Optimización de procesos logísticos e integración de sistemas existentes. Proporcionando toda esta información  mediante la intuitiva plataforma web se espera que las empresas que puedan tomar la mejor decisión en términos de ambiente y logísticos  
+
+Misión: Ayudar a la preservación del medio ambiente a la vez de aumentar la eficiencia de las rutas de suministros de las empresas \
+Visión: Ecologix será una de las principales causas en la reducción de la contaminación y destaca como una de las principales plataformas destinadas a la gestion de suministros
+
 
 ### **1.1.2. Perfiles de integrantes del equipo**
+<table BORDER>
+    <tr>
+        <td>Perfiles de los integrantes</td>
+        <td></td>
+    </tr>
+      <tr>
+        <td> <img src="imgs/integrante-barturen.png"></td>
+        <td>Mi nombre es Alejandro Nicolas Barturen Guzman. Tengo 20 años y estoy estudiando la carrera de ingeniería de software en la UPC y me encuentro en 5to ciclo. Soy una persona imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También me considero  colaborativo y ordenado  lo que facilita el trabajo en equipo con mis compañeros.Tengo conocimiento  de los lenguajes de programación C++, Python, Java y Javascript. Además, tengo conocimiento de UI,  UX  y software de control de versiones. </td>
+    </tr>
+
+</table>
+
 ## **1.2. Solution Profile**
 
 ### **1.2.1 Antecedentes y problemática**

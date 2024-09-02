@@ -593,6 +593,58 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 
 ## **2.2. Entrevistas**
 ### **2.2.1. Diseño de entrevistas**
+**Empresas de Manufactura**
+\
+**Preguntas Principales:**
+
+- ¿Cuál es su rol en la empresa y cuántos años lleva en este cargo?
+- ¿Cuáles son los principales desafíos que enfrenta actualmente su cadena de suministro?
+- ¿Qué importancia tiene la sostenibilidad en las operaciones de su empresa?
+- ¿Qué herramientas o plataformas utiliza actualmente para gestionar su cadena de suministro?
+- ¿Cuáles son las características más importantes que busca en una solución de gestión de la cadena de suministro?
+- ¿Qué problemas encuentra con las herramientas actuales que utiliza para la sostenibilidad y la eficiencia?
+- ¿Con qué frecuencia revisa o actualiza sus proveedores para asegurar la sostenibilidad?
+- ¿Cuál es su proceso actual para evaluar el impacto ambiental de su cadena de suministro?
+- ¿Cómo mide el éxito de su cadena de suministro en términos de eficiencia y sostenibilidad?
+- ¿Qué tan importante es para usted la integración de tecnología digital en sus operaciones de manufactura?
+- ¿Qué dispositivos y canales digitales utiliza más a menudo en su trabajo diario?
+- ¿Cuáles son los objetivos principales de su empresa en los próximos 5 años en relación con la cadena de suministro?
+- ¿Cuáles son sus mayores frustraciones con la gestión de la cadena de suministro?
+- ¿Qué tan satisfecho está con los niveles de colaboración interna y externa en la gestión de la cadena de suministro?
+- ¿Qué tipo de soporte técnico o de servicio al cliente espera de una plataforma de gestión de la cadena de suministro?\
+\
+**Preguntas Complementarias:**
+
+- ¿Qué importancia tiene la reputación y las certificaciones de sostenibilidad de sus proveedores?
+- ¿Con qué frecuencia utiliza dispositivos móviles para acceder a herramientas de gestión de la cadena de suministro?
+- ¿Cómo influye la cultura organizacional de su empresa en la adopción de nuevas tecnologías o prácticas sostenibles?
+- ¿Cuáles son las principales marcas o influencias que considera al seleccionar herramientas para la cadena de suministro?
+- ¿Qué datos específicos le gustaría poder analizar más fácilmente en sus informes de gestión?\
+**Empresas de Logística y Transporte**
+\
+**Preguntas Principales:**
+
+- ¿Cuál es su rol en la empresa y cuántos años lleva en este cargo?
+- ¿Cuáles son los principales desafíos operativos que enfrenta su empresa en términos de logística y transporte?
+- ¿Qué importancia tiene la sostenibilidad en las operaciones logísticas de su empresa?
+- ¿Qué tipo de herramientas o plataformas utiliza actualmente para gestionar la logística y el transporte?
+- ¿Cómo mide la eficiencia y el impacto ambiental de sus operaciones de transporte?
+- ¿Cuáles son las principales frustraciones que tiene con sus actuales procesos o herramientas de gestión?
+- ¿Qué características busca en una nueva plataforma de gestión logística?
+- ¿Cómo gestiona actualmente la planificación y optimización de rutas para reducir costos y emisiones?
+- ¿Qué tan importante es la visibilidad en tiempo real en sus operaciones logísticas?
+- ¿Qué dispositivos y canales digitales son más utilizados en su empresa para la gestión de operaciones?
+- ¿Qué expectativas tiene respecto al servicio al cliente o soporte técnico de una nueva herramienta logística?
+- ¿Cuáles son sus mayores desafíos en la implementación de tecnologías innovadoras en logística?
+- ¿Cómo influye la satisfacción del cliente en las decisiones relacionadas con la sostenibilidad y la eficiencia logística?\
+\
+**Preguntas Complementarias**
+- ¿Cuánto tiempo dedica a investigar nuevas soluciones tecnológicas para la gestión logística?
+- ¿Qué tan relevantes son las certificaciones ambientales   para su empresa?
+- ¿Con qué frecuencia revisa y adapta las políticas de sostenibilidad de su empresa?
+- ¿Qué tan importante es la integración con otros sistemas y herramientas digitales que utiliza su empresa?
+- ¿Cuáles son las principales marcas o influencias que considera al evaluar soluciones de gestión logística?
+
 ### **2.2.2. Registro de entrevistas**
 ### **2.2.3. Análisis de entrevistas**
 
@@ -608,7 +660,513 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
 ## **3.1. To-Be Scenario Mapping**
+**Segmento Objetivo: Empresa Manufactura**
+\
+<table><thead>
+  <tr>
+    <th>Phases</th>
+    <th>Planificación de Producción  </th>
+    <th>Monitoreo de la Cadena de Suministro</th>
+    <th>Comunicación de Métricas</th>
+    <th>Evaluación del Desempeño y Mejora Continua</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Doing</td>
+    <td>-Establecen objetivos que se busca con la producción<br>-Ajustan los cronogramas de producción </td>
+    <td>-Visualizan en tiempo real las emisiones de CO₂ y el consumo de recursos de cada proveedor.</td>
+    <td>-Genera reportes automáticos de sostenibilidad</td>
+    <td>-Reciben retroalimentación en tiempo real sobre el desempeño en sostenibilidad.<br>-Ajustan estrategias de producción y cadena de suministro basadas en los reportes</td>
+  </tr>
+  <tr>
+    <td>Thinking</td>
+    <td>-Me ofrece datos claros para establecer objetivos sostenibles y elegir los mejores proveedores</td>
+    <td>-Puedo monitorear a todos los proveedores y asegurarse de que cumplen con nuestros estándares.</td>
+    <td>-Los informes automáticos   nos ahorran tiempo y muestran nuestro compromiso con la sostenibilidad.</td>
+    <td>-Siempre tengo la información necesaria para mejorar nuestras prácticas.</td>
+  </tr>
+  <tr>
+    <td>Feeling</td>
+    <td>-Confianza en tomar decisiones estratégicas basadas en datos precisos.</td>
+    <td>-Seguridad al tener un control continuo y transparente sobre la cadena de suministro.</td>
+    <td>-Tranquilidad por poder cumplir fácilmente con los estándares regulatorios y de sostenibilidad</td>
+    <td>-Motivación por las oportunidades constantes de mejora y crecimiento sostenible.</td>
+  </tr>
+</tbody>
+</table>
+\
+\
+**Segmento Objetivo: Empresa de Logística y Transporte** 
+<table><thead>
+  <tr>
+    <th>Phases</th>
+    <th>Planificación de Rutas Sostenibles</th>
+    <th>Monitoreo de Transporte en Tiempo Real</th>
+    <th>Comunicación de Métricas y Desempeño</th>
+    <th>Evaluación de Impacto y Mejora Continua</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Doing</td>
+    <td>-Crear rutas logísticas optimizadas que minimicen la distancia y el consumo de combustible.<br>-Ajustan las rutas de entrega en tiempo real para reducir las emisiones de CO₂.</td>
+    <td>-Supervisan la ubicación y desempeño de cada vehículo en la flota a través de la plataforma<br>-Revisan el uso de combustible y las emisiones por trayecto para cada vehículo..</td>
+    <td>-Generan informes de desempeño sostenible<br></td>
+    <td>-Reciben retroalimentación continua sobre la eficiencia y sostenibilidad de sus operaciones logísticas.<br>-Identifican nuevas oportunidades de mejora y reducción de costos a través de análisis</td>
+  </tr>
+  <tr>
+    <td>Thinking</td>
+    <td>-Podemos planificar rutas más eficientes y sostenibles con facilidad.</td>
+    <td>-Tenemos control total sobre nuestra flota y su eficiencia.</td>
+    <td>-Podemos demostrar fácilmente nuestro compromiso con la sostenibilidad a nuestros socios.</td>
+    <td>-Siempre podemos encontrar formas de mejorar gracias a los datos que se nos brindan</td>
+  </tr>
+  <tr>
+    <td>Feeling</td>
+    <td>-Tranquilidad al saber que cada ruta está optimizada para ahorrar tiempo y costos.</td>
+    <td>-Empoderamiento al poder actuar rápidamente ante cualquier  problema.</td>
+    <td>-Confianza al cumplir con los estándares y expectativas del mercado.</td>
+    <td>-Optimismo al ver oportunidades constantes para mejorar y crecer en sostenibilidad.</td>
+  </tr>
+</tbody></table>
+
 ## **3.2. User Stories**
+<table><thead>
+  <tr>
+    <th>Epic/User Story ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Criterios de aceptación</th>
+    <th>Relación con (Epic ID)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>EP01</td>
+    <td>Contacto para enviar solicitudes </td>
+    <td>Como visitante de la landing page Quiero contactar con los desarrolladores Para solicitar información</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP02</td>
+    <td>Información de la Plataforma</td>
+    <td>Como visitante de la landing page Quiero  visualizar información referente a la plataforma Para conocer sobre objetivo del producto</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP03</td>
+    <td>Conexión entre el landing Page y la plataforma </td>
+    <td>Como visitante de la landing page<br>Quiero  acceder a la plataforma desde la landing page Para facilitar la navegación entre paginas</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP04</td>
+    <td>Visibilidad de la Cadena de Suministro</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  visibilidad del desempeño de la cadena de suministros Para tomar decisiones que ayuden a reducir costos </td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP05</td>
+    <td>Evaluación del Desempeño Ambiental de Proveedores</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  evaluar el desempeño ambiental de nuestro proveedor Para seleccionar aquellos que cumplan con los requisitos</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP06</td>
+    <td>Gestión de Inventarios Eficiente</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  gestionar el  inventario  Para prevenir desabastecimientos</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP07</td>
+    <td>Acceso a Reportes Detallados</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  acceder  a reportes detallados  Para identificar oportunidades de mejora</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP08</td>
+    <td>Comunicación Interna </td>
+    <td>Como gerente de una Empresa de Manufactura Quiero crear chats grupales y enviar mensajes a cualquier miembro de la empresa Para facilitar la comunicación entre todos</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP09</td>
+    <td>Optimización de Rutas de Transporte</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero optimizar las rutas de transporte Para minimizar el consumo de combustible</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP10</td>
+    <td>Alertas Automáticas de Desempeño</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero recibir alertas automáticas cuando haya desviaciones en el rendimiento  Para tomar las medidas correspondientes</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP11</td>
+    <td>Generación y Compartición de Informes</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero generar informes y compartirlo con mis asociados Para que se encuentren informados sobre logística</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>EP12</td>
+    <td>Monitoreo en Tiempo Real de Vehículos</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero monitorear en tiempo real la ubicación y estado de vehículos Para mejorar la eficiencia en las rutas</td>
+    <td>No corresponde </td>
+    <td>No corresponde </td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Solicitud de Información	</td>
+    <td>Como visitante de la landing page Quiero solicitar información personalizada Para  conocer cómo la plataforma puede beneficiar mi negocio</td>
+    <td>Escenario 1:Enviar mensaje al startup<br>Dado visitante tenga alguna consulta , cuando  ingreso mi información y pregunta, entonces se enviará la información a los desarrolladores <br>Escenario 2: Error en el envío de la información<br>Dado un problema en la red o servidor, cuando intento enviar mi solicitud, entonces recibo un mensaje de error y se me sugiere intentar de nuevo más tarde</td>
+    <td>EP01</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Acceso Rápido a Información Clave	</td>
+    <td>Como visitante de la landing page Quiero encontrar rápidamente información clave sobre la plataforma Para  ahorrar tiempo</td>
+    <td>Escenario 1: Navegar en busca de información<br> Dado el landing page, cuando navego, entonces veo los puntos destacados en la parte superior de la página.</td>
+    <td>EP02</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Redirección a la Plataforma</td>
+    <td> Como visitante de la landing page Quiero un enlace claro para acceder a la plataforma completa Para explorar todas las funcionalidades</td>
+    <td>Escenario 1: Redirección a la plataforma<br>Dado el landing page, cuando hago clic en el logo de la plataforma, entonces soy dirigido a la página de inicio de la plataforma.<br>Escenario 2: Error en la redirección.<br>Dado un enlace principal roto o inactivo, cuando hago clic en él, entonces recibo un mensaje de error y se me sugiere volver a intentarlo más tarde o contactar al soporte</td>
+    <td>EP03</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Análisis de Costos de Suministro</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero acceder a gráficos de desempeño del suministro Para  identificar tendencias que impactan en los costos</td>
+    <td>Escenario 1: Identificación de patrones<br>Dado la herramienta de gráficos de desempeño, cuando visualizo los datos históricos, entonces puedo identificar patrones de costos.<br>Escenario 2: Datos incompletos o inconsistentes.<br>Dado un problema con los datos, cuando intento visualizar los gráficos, entonces se muestra una advertencia de que los datos pueden no ser confiables.<br>Escenario 3: Filtros para análisis específico.<br>Dado varios filtros disponibles, cuando aplico un filtro, entonces los gráficos se actualizan para reflejar solo los datos relevantes al filtro aplicado.</td>
+    <td>EP04</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Reporte de Impacto Ambiental de Proveedores</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero recibir un reporte mensual del impacto ambiental de cada proveedor Para tomar decisiones de selección y descontinuación.</td>
+    <td>Escenario 1: Generación automática de reportes mensuales.<br>Dado los datos de impacto ambiental, cuando llega el fin de mes, entonces se genera automáticamente un reporte que incluye el desempeño ambiental de todos los proveedores.<br>Escenario 2: Inclusión de proveedores en el reporte<br>Dado los datos de impacto ambiental, cuando se genera el reporte mensual, entonces debe incluir el desempeño en lo que ambiente se refiere de todos los proveedores actuales <br>Escenario 3: Alerta de proveedor con alto impacto<br>Dado un proveedor con un impacto ambiental significativamente alto, cuando se genera el reporte, entonces se incluye una alerta o recomendación para revisar su desempeño</td>
+    <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Alertas de Inventario Bajo</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  recibir alertas cuando los niveles de inventario estén bajos  Para evitar desabastecimientos críticos</td>
+    <td>Escenario 1: Alerta de inventario bajo<br>Dado un nivel mínimo de inventario definido, cuando el stock cae por debajo de este nivel, entonces se envía una alerta automáticamente.<br>Escenario 2: Confirmación de recepción de la alerta.<br>Dado una alerta enviada, cuando el gerente la recibe, entonces se solicita una confirmación para asegurar que ha sido vista y se tomará acción.</td>
+    <td>EP06 </td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Reportes de Oportunidades de Mejora</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero recibir comunicados mensuales de oportunidades de mejora Para identificar y proponer acciones correctivas.</td>
+    <td>Escenario 1: Inclusión de recomendaciones.<br>Dado los datos operativos, cuando se genera el reporte mensual, entonces se incluirá de forma automática recomendaciones de mejora.<br><br><br></td>
+    <td>EP07</td>
+  </tr>
+  <tr>
+    <td>US08</td>
+    <td>Chat de Comunicación Interna</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero tener acceso a un chat de comunicación interna Para coordinar mejor con mis compañeros</td>
+    <td>Escenario 1: Acceso y uso del chat<br>Dado la plataforma, cuando accede al chat, entonces puedo enviar y recibir mensajes en tiempo real a cualquier miembro de la empresa.<br>Escenario 2: Notificaciones de nuevos mensajes.<br><br>Dado un nuevo mensaje recibido, cuando estoy fuera del chat, entonces recibo una notificación en la plataforma.</td>
+    <td>EP08</td>
+  </tr>
+  <tr>
+    <td>US09</td>
+    <td>Gestión de Proveedores con Certificación Verde</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero filtrar proveedores que tienen certificaciones ecológicas Para asegurarme de cumplir con los estándares de sostenibilidad</td>
+    <td>Escenario 1: Filtro de certificación verde<br>Dado una lista de proveedores, cuando aplico el filtro de certificación, entonces sólo aparecen los que cumplen con los requisitos verdes.</td>
+    <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US10</td>
+    <td>Control de Calidad Automático</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero recibir notificaciones automáticas cuando se detecten desviaciones Para tomar medidas inmediatas de corrección</td>
+    <td>Escenario 1: Alerta de desviación.<br>Dado un parámetro de control, cuando se detecta una desviación, entonces se envía una alerta automática.<br>Escenario 2: Confirmación de acciones correctivas.<br>Dado una alerta de desviación, cuando se toma una medida correctiva, entonces el sistema solicita confirmación y registro de la acción tomada</td>
+    <td>EP07</td>
+  </tr>
+  <tr>
+    <td>US11</td>
+    <td>Optimización de Procesos Productivos</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  identificar procesos ineficientes en tiempo real Para mejorar el flujo de trabajo</td>
+    <td>Escenario 1: Detección de cuellos de botella<br>Dado los datos de producción, cuando detecto un cuello de botella, entonces se sugiere una acción correctiva.<br>Escenario 2: Implementación de mejoras en tiempo real.<br>Dado una sugerencia de optimización, cuando aplico la mejora, entonces puedo ver una mejora inmediata en el flujo de trabajo</td>
+    <td>EP04</td>
+  </tr>
+  <tr>
+    <td>US12</td>
+    <td>Control de Desperdicio de Materiales</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero monitorear el desperdicio de materiales Para minimizar pérdidas y mejorar la eficiencia</td>
+    <td>Escenario 1: Monitoreo de desperdicios.<br>Dado los datos de producción, cuando reviso el panel, entonces puedo ver el desperdicio y las áreas donde se genera <br>Escenario 2: Sugerencias para reducir el desperdicio<br>Dado los datos de desperdicio, cuando se identifica una fuente de residuos, entonces el sistema sugiere acciones para reducirlo<br>Escenario 3: Monitoreo de reducción de desperdicio<br>Dado una acción correctiva implementada, cuando reviso los datos posteriores, entonces puedo ver si la acción ha reducido el desperdicio</td>
+    <td>EP04</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Visualización de Desempeño de Proveedores</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero visualizar el desempeño histórico de los proveedores Para tomar decisiones estratégicas sobre su continuidad.</td>
+    <td>Escenario 1: Informe histórico de desempeño<br>Dado los datos de desempeño de proveedores, cuando accedo al informe, entonces puedo ver un análisis histórico del rendimiento.<br>Escenario 2: Comparación de desempeño entre períodos.<br>Dado un conjunto de datos históricos, cuando selecciono diferentes períodos, entonces puedo comparar el rendimiento de los proveedores a lo largo del tiempo</td>
+    <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Evaluación Comparativa de Proveedores</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  comparar el desempeño de diferentes proveedores Para  elegir aquellos que se alineen mejor con los objetivos de la empresa</td>
+    <td>Escenario 1: Comparativa de proveedores<br>Dado una lista de proveedores y sus métricas, cuando selecciono diferentes proveedores, entonces puedo ver una comparación de su desempeño.<br><br>Escenario 2: Filtrado por criterios específicos<br>Dado varios criterios de evaluación, cuando aplico un filtro, entonces sólo se muestran los proveedores que cumplen con esos criterios</td>
+    <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US15</td>
+    <td>Sistema de Incentivos por Desempeño</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  implementar un sistema de incentivos basado en el desempeño   Para motivar a los empleados.</td>
+    <td>Escenario 1: Definición de métricas de desempeño.<br>Dado un conjunto de métricas clave, cuando defino los criterios de incentivos, entonces se vinculan automáticamente con el sistema de evaluación de empleados<br><br>Escenario 2: Creación de incentivos<br>Dado un sistema de desempeño, cuando los empleados cumplen con los criterios establecidos, entonces se otorgan incentivos.<br>Escenario 3: Notificación de empleados incentivados.<br>Dado una lista de empleados con alto desempeño, cuando se aprueba el incentivo, entonces los empleados reciben una notificación de su recompensa</td>
+    <td>EP07</td>
+  </tr>
+  <tr>
+    <td>US16</td>
+    <td>Estimación de demanda de inventario</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  pronosticar la demanda de inventario Para planificar mejor las compras de materiales.</td>
+    <td>Escenario 1: Pronóstico de demanda<br>Dado los datos históricos de consumo, cuando realizó un análisis, entonces puedo ver un pronóstico de la demanda futura.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Sistema de Feedback de Empleados en Planta</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero implementar un sistema de feedback de empleados en planta Para mejorar continuamente los procesos</td>
+    <td>Escenario 1: Feedback de empleados<br>Dado un sistema de feedback, cuando los empleados envían sus sugerencias, entonces puedo revisar y tomar medidas.<br>Escenario 3: Informe mensual de feedback.<br>Dado un sistema de feedback activo, cuando se genera el informe mensual, entonces se incluye un resumen de todas las sugerencias y las acciones tomadas</td>
+    <td> EP07</td>
+  </tr>
+  <tr>
+    <td>US18</td>
+    <td>Gestión de Recursos Humanos en Planta</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero gestionar los recursos humanos en planta de manera eficiente Para maximizar la productividad.</td>
+    <td>Escenario 1: Gestión eficiente de recursos<br>Dado un sistema de gestión de personal, cuando organizó los turnos, entonces puedo optimizar la asignación de recursos<br>Escenario 2: Monitoreo de productividad.<br>Dado un grupo de empleados en turno, cuando reviso el panel de control, entonces puedo ver la productividad de cada uno en tiempo real</td>
+    <td>EP07</td>
+  </tr>
+  <tr>
+    <td>US19</td>
+    <td>Notificación de Desviaciones de Desempeño</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero recibir alertas cuando el rendimiento de un vehículo sea inferior al esperado Para tomar medidas correctivas inmediatas.</td>
+    <td>Escenario 1: Alerta de rendimiento<br>Dado los KPIs de rendimiento, cuando el desempeño está por debajo del umbral, entonces se envía una alerta automática.<br>Escenario 2: Informe de seguimiento posterior.<br><br>Dado una desviación en el rendimiento, cuando se toma una medida correctiva, entonces se genera un informe que detalla la acción tomada y su impacto en el rendimiento</td>
+    <td>EP10</td>
+  </tr>
+  <tr>
+    <td>US20</td>
+    <td>Informes de Rendimiento de Rutas</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero recibir informes detallados sobre el rendimiento de rutas Para  optimizar el uso de recursos</td>
+    <td>Escenario 1: Generación de informes<br>Dado los datos de ruta, cuando solicitó un informe, entonces se genera con datos de eficiencia de ruta , consumo de combustible y gastos generales</td>
+    <td>EP11</td>
+  </tr>
+  <tr>
+    <td>US21</td>
+    <td>Monitoreo de Vehículos en Tiempo Real</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero monitorear en tiempo real la ubicación y estado de cada vehículo  Para mejorar la eficiencia operativa</td>
+    <td> Escenario 1: Monitoreo en tiempo real<br>Dado el sistema de monitoreo, cuando se actualiza la ubicación de un vehículo, entonces puedo verla en tiempo real en el panel de control</td>
+    <td>EP12</td>
+  </tr>
+  <tr>
+    <td>US22</td>
+    <td>Comunicación Directa con Conductores</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero enviar mensajes directos a los conductores Para notificar cambios de ruta o instrucciones específicas</td>
+    <td>Escenario 1: Envío de mensajes.<br>Dado el panel de comunicación, cuando envíe un mensaje, entonces el conductor lo recibe instantáneamente.<br>Escenario 2: Confirmación de recepción<br>Dado un mensaje enviado, cuando el conductor lo recibe, entonces puedo ver una confirmación de lectura</td>
+    <td>EP012</td>
+  </tr>
+  <tr>
+    <td>US23</td>
+    <td>Gestión de Mantenimiento Preventivo de Flotas</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero recibir alertas cuando un vehículo requiera mantenimiento preventivo Para  evitar averías inesperadas</td>
+    <td>Escenario 1: Alerta de mantenimiento<br>Dado los registros de mantenimiento, cuando se alcanza un umbral de uso, entonces se genera una alerta de mantenimiento preventivo<br>Escenario: Cancelar esto de mantenimiento<br>Dado que salto la alarma de mantenimiento <br>cuando se soluciona el problema , entonces se podra quitar el estado de mantenimiento </td>
+    <td>EP12</td>
+  </tr>
+  <tr>
+    <td>US24</td>
+    <td>Informes Personalizados para Clientes</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero generar informes personalizados de estado de entrega para los clientes Para mantenerlos informados</td>
+    <td>Escenario 1: Generación de informes personalizados<br>Dado los datos de entrega, cuando se solicita un informe, entonces el cliente recibe un informe con el estado actualizado<br>Escenario 2: Personalización del formato del informe<br>Dado un informe a generar, cuando selecciono el formato preferido, entonces el informe se genera en el formato elegido (PDF, Excel, etc.)<br></td>
+    <td>EP11</td>
+  </tr>
+  <tr>
+    <td>US25</td>
+    <td>Visualización de Consumo de Combustible</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero visualizar el consumo de combustible por vehículo Para  identificar oportunidades de ahorro de energía</td>
+    <td>Escenario 1: Visualización de consumo<br>Dado los datos de consumo, cuando accedo al panel de consumo, entonces puedo ver los datos detallados por vehículo<br>Escenario 2: Alerta de consumo elevado<br>Dado un conjunto de datos de consumo, cuando el consumo de un vehículo supera un umbral establecido, entonces se envía una alerta para revisión</td>
+    <td>EP09</td>
+  </tr>
+  <tr>
+    <td>US26</td>
+    <td>Evaluación de Rendimiento de Conductores</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero recibir informes de evaluación del rendimiento de los conductores Para mejorar las políticas de capacitación y seguridad</td>
+    <td>Escenario 1: Informe de rendimiento<br>Dado los datos de rendimiento, cuando solicito un informe, entonces se genera con indicadores clave de desempeño.<br>Escenario 2: Identificación de áreas de mejora<br>Dado un informe de rendimiento, cuando se identifican áreas de bajo desempeño, entonces se sugieren acciones correctivas o capacitaciones específicas<br></td>
+    <td>EP11</td>
+  </tr>
+  <tr>
+    <td>US27</td>
+    <td>Seguimiento de Paquetes en Tiempo Real</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero rastrear la ubicación de mi paquete en tiempo real Para saber cuándo llegará mi entrega</td>
+    <td>Escenario 1: Seguimiento en tiempo real.<br>Dado el sistema de seguimiento, cuando introduzco mi número de paquete, entonces puedo ver la ubicación actualizada del paquete.<br>Escenario 2: Confirmación de entrega.<br>Dado un paquete en tránsito, cuando se entrega, entonces el sistema actualiza el estado a "Entregado" y notifica al cliente</td>
+    <td>EP012</td>
+  </tr>
+  <tr>
+    <td>US28</td>
+    <td>Planificación de Entregas en Base a Prioridades</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero  priorizar las entregas de alto valor o urgencia Para  mejorar la satisfacción del cliente</td>
+    <td>Escenario 1: Reorganización de entregas<br><br>Dado una lista de entregas, cuando aplico filtros de prioridad, entonces se reorganiza el plan de entregas automáticamente.<br>Escenario 2: Notificación de cambio de prioridad.<br>Dado un cambio en la prioridad de una entrega, cuando se modifica el plan, entonces los conductores son notificados del cambio de ruta o secuencia</td>
+    <td>EP09</td>
+  </tr>
+  <tr>
+    <td>US29</td>
+    <td>Verificación de Documentación de Conductores</td>
+    <td> Como gerente de una Empresa de Logística y Transporte Quiero  verificar que todos los conductores tengan su documentación actualizada Para  cumplir con las normativas legales y de seguridad.</td>
+    <td>Escenario 1: Verificación de documentación<br>Dado un sistema de gestión de documentación, cuando reviso los documentos, entonces puedo confirmar que están actualizados<br><br>Escenario 2: Alerta de documentos vencidos<br>Dado un conjunto de documentos, cuando se acerca la fecha de vencimiento, entonces el sistema envía una alerta para su renovación</td>
+    <td>EP10</td>
+  </tr>
+  <tr>
+    <td>US30</td>
+    <td>Gestión de Horarios de Conductores</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero  gestionar los horarios de los conductores Para   asegurar el cumplimiento de las horas de trabajo y descanso</td>
+    <td>Escenario 1: Gestión de horarios<br>Dado un sistema de gestión de horarios, cuando organizo los turnos, entonces puedo asegurar el cumplimiento de las horas de trabajo y descanso.<br>Escenario 2: Reprogramación automática<br><br>Dado un cambio inesperado en la operación, cuando necesito ajustar los turnos, entonces el sistema sugiere una nueva programación que cumple con las normativas de descanso.</td>
+    <td>EP12</td>
+  </tr>
+  <tr>
+    <td>US31</td>
+    <td>Gestión de Reclamos de Clientes</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero  gestionar los reclamos de clientes Para  mejorar la satisfacción y fidelización.</td>
+    <td>Escenario 1: Gestión de reclamos<br>Dado un sistema de gestión de reclamos, cuando se recibe un reclamo, entonces puedo revisarlo y tomar las medidas necesarias.<br>Escenario 2: Análisis de causas<br>Dado un conjunto de reclamos, cuando los reviso, entonces puedo identificar patrones y causas comunes para abordar problemas sistémicos</td>
+    <td>EP11</td>
+  </tr>
+  <tr>
+    <td>US32</td>
+    <td>Comparativa de Rendimiento entre Conductores</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero  comparar el rendimiento de los conductores Para identificar y recompensar a los más eficientes.</td>
+    <td>Escenario 1: Comparativa de rendimiento<br>Dado los datos de rendimiento, cuando comparo diferentes conductores, entonces puedo ver una comparación detallada de su desempeño<br>Escenario 2: Análisis de factores influyentes<br><br>Dado un análisis de rendimiento, cuando se comparan los resultados, entonces puedo identificar factores externos (como rutas o vehículos asignados) que pueden haber influido en el desempeño</td>
+    <td>EP11</td>
+  </tr>
+  <tr>
+    <td>US33</td>
+    <td>Optimización de Rutas Dinámicas</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero ajustar automáticamente las rutas en función del tráfico Para  mejorar los tiempos de entrega</td>
+    <td>Escenario 1: Ajuste automático de rutas<br>Dado el tráfico en tiempo real, cuando se detectan cambios, entonces las rutas se ajustan automáticamente<br>Escenario 2: Notificación de cambios de ruta<br>Dado un cambio en la ruta, cuando se realiza automáticamente, entonces los conductores y gerentes reciben una notificación con la nueva ruta<br>Escenario 3: Análisis de impacto de ajustes<br>Dado un ajuste de ruta realizado, cuando se analiza el día de operación, entonces puedo ver cómo los cambios impactaron los tiempos de entrega y la eficiencia general</td>
+    <td> EP09</td>
+  </tr>
+  <tr>
+    <td>US34</td>
+    <td>Sistema de Gestión de Reclamos de Conductores</td>
+    <td>Como gerente de una Empresa de Logística y Transporte Quiero un sistema de gestión de reclamos de conductores Para abordar rápidamente sus preocupaciones</td>
+    <td>Escenario 1: Gestión de reclamos de conductores<br>Dado un sistema de gestión de reclamos, cuando se recibe un reclamo de un conductor, entonces puedo revisarlo y tomar las medidas necesarias<br>Escenario 2: Informe de reclamos recurrentes<br>Dado un conjunto de reclamos, cuando reviso los datos, entonces puedo identificar patrones y posibles mejoras en las políticas o procesos internos</td>
+    <td>EP12</td>
+  </tr>
+  <tr>
+    <td>TS01</td>
+    <td>Post Organization</td>
+    <td>Como desarrollador de GreenSync Quiero registrar una nueva organización mediante una API  Para visualizar las organizaciones afiliadas a nuestra aplicación.</td>
+    <td>Escenario 1: Organización Registrada Correctamente<br>Dado que se tiene acceso a la API para registrar organizaciones,<br>Cuando se envíe una solicitud con los datos correctos,<br>Entonces la organización se registra correctamente y recibo una confirmación<br>Escenario 2: Datos Inválidos para el Registro<br>Dado que se tiene acceso a la API para registrar organizaciones, Cuando se envíe una solicitud con datos incompletos o incorrectos, Entonces la solicitud es rechazada y se recibe un mensaje de error específico.<br></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Get Organization</td>
+    <td>Como desarrollador de GreenSync Quiero obtener la información de una organización mediante una API Para mostrarla en la aplicación cuando se solicite</td>
+    <td>Escenario 1: Organización Encontrada<br>Dado que se tiene acceso a la API para obtener información de la organización, Cuando se solicite información de una organización existente, Entonces se reciben los detalles de la organización solicitada en un formato JSON válido.<br>Escenario 2: Organización No Encontrada<br>Dado que se tiene acceso a la API para obtener información de la organización, Cuando se solicite información de una organización que no existe, Entonces se recibe un mensaje indicando que no se encontró la organización.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Post User</td>
+    <td>Como desarrollador de GreenSync Quiero registrar a un nuevo usuario mediante una API Para  visualizar los usuarios afiliados a nuestra aplicación</td>
+    <td>Escenario 1: Usuario Registrado Correctamente<br>Dado que  se tiene acceso a la API para registrar usuarios, Cuando se envíe una solicitud con los datos correctos, Entonces el usuario se registra correctamente y recibo una confirmación.<br>Escenario 2: Datos Inválidos para el Registro<br>Dado que se tiene acceso a la API para registrar usuarios, Cuando se envie una solicitud con datos incompletos o incorrectos, Entonces la solicitud es rechazada y recibo un mensaje de error específico.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Get User</td>
+    <td>Como desarrollador de GreenSync Quiero obtener la información de un usuario mediante una API Para mostrarla en la aplicación cuando se solicite </td>
+    <td>Escenario 1: Usuario Encontrado <br>Dado que se tiene acceso  a la API para obtener información de un usuario, Cuando se solicita información de un usuario existente, Entonces se recibe los detalles del usuario solicitado en un formato JSON válido.<br>Escenario 2: Usuario No Encontrado<br>Dado que se tiene acceso a la API para obtener información de un usuario, Cuando se solicite información de un usuario que no existe, Entonces se recibe un mensaje indicando que no se encontró el usuario.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>Post Payment Cards</td>
+    <td>Como desarrollador de GreenSync Quiero registrar la información de pago de las organizaciones mediante una API Para  contar con la información para pagos futuros</td>
+    <td>Escenario 1: Información de Pago Registrada Correctamente<br>Dado que tengo acceso a la API para registrar información de pago, Cuando envío una solicitud con los datos correctos, Entonces la información de pago se registra correctamente y recibo una confirmación.<br>Escenario 2: Datos de Pago Inválidos<br>Dado que se tiene acceso a la API para registrar información de pago, Cuando se envie una solicitud con datos de pago incompletos o incorrectos, Entonces la solicitud es rechazada y recibo un mensaje de error específico.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS06</td>
+    <td>Get Payment Cards</td>
+    <td>Como desarrollador de GreenSync Quiero  obtener la información de pago de las organizaciones mediante una API Para recibir los pagos en la aplicación cuando sea solicitado</td>
+    <td>Escenario 1: Información de Pago Encontrada<br>Dado que se tiene acceso a la API para obtener información de pago, Cuando solicito información de pago de una organización existente, Entonces se recibe los detalles de la información de pago en un formato JSON válido.<br><br>Escenario 2: Información de Pago No Encontrada<br>Dado que se tiene acceso a la API para obtener información de pago, Cuando se solicite información de pago de una organización que no tiene datos registrados, Entonces se recibe un mensaje indicando que no se encontró la información de pago.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS07</td>
+    <td>Post Roles per User</td>
+    <td>Como desarrollador de GreenSync Quiero asignar roles a los usuarios mediante una API Para que puedan acceder a funcionalidades específicas según su rol</td>
+    <td>Escenario 1: Rol Asignado Correctamente<br>Dado que se tiene acceso a la API para asignar roles a usuarios, Cuando se envie una solicitud con los datos correctos, Entonces el rol se asigna correctamente al usuario y recibo una confirmación.<br>Escenario 2: Datos Inválidos para la Asignación de Roles<br>Dado que se tiene acceso a la API para asignar roles a usuarios, Cuando se envie una solicitud con datos incorrectos o incompletos, Entonces la solicitud es rechazada y recibo un mensaje de error específico.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS08</td>
+    <td>Get Roles per User</td>
+    <td>Como desarrollador de GreenSync Quiero obtener la información de los usuarios por sus roles mediante una API Para  brindar la diferenciación de funcionalidades en la aplicación según su rol</td>
+    <td>Escenario 1: Roles de Usuario Encontrados<br>Dado que se tiene acceso a la API para obtener información de roles de usuarios, Cuando se solicite los roles de un usuario existente, Entonces se recibe una lista de los roles asignados al usuario en un formato JSON válido.<br>Escenario 2: Roles de Usuario No Encontrados<br>Dado que se tiene acceso a la API para obtener información de roles de usuarios, Cuando se solicite  los roles de un usuario que no tiene roles asignados, Entonces se recibe un mensaje indicando que no se encontraron roles para ese usuario.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS09</td>
+    <td>Get Organization by Membership</td>
+    <td>Como desarrollador de GreenSync Quiero  obtener la información de las organizaciones por sus membresías mediante una API Para brindar la diferenciación de funcionalidades en la aplicación según su membresía</td>
+    <td>Escenario 1: Organizaciones por Membresía Encontradas<br>Dado que se tiene acceso a la API para obtener información de organizaciones por membresía, Cuando se solicite las organizaciones con una membresía específica, Entonces se recibe una lista de las organizaciones que corresponden a esa membresía en un formato JSON válido.<br>Escenario 2: Organizaciones por Membresía No Encontradas<br>Dado que se tiene acceso a la API para obtener información de organizaciones por membresía, Cuando se solicite las organizaciones con una membresía que no tiene registros, Entonces se recibe un mensaje indicando que no se encontraron organizaciones con esa membresía.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS10</td>
+    <td>Get File Download</td>
+    <td>Como desarrollador  de GreenSync Quiero permitir que los usuarios descarguen archivos previamente subidos mediante una API Para que puedan acceder a sus documentos cuando lo necesiten </td>
+    <td>Escenario 1: Archivo Descargado Correctamente<br>Dado que se tiene acceso a la API para descargar archivos, Cuando se solicite la descarga de un archivo previamente subido, Entonces el archivo se descarga correctamente y está disponible para el usuario.<br>Escenario 2: Archivo No Encontrado<br>Dado que se tiene acceso a la API para descargar archivos, Cuando se solicite  la descarga de un archivo que no existe o que ha sido eliminado, Entonces se recibe un mensaje indicando que el archivo no se encontró.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS11</td>
+    <td>Post File Upload</td>
+    <td>Como desarrollador de GreenSync Quiero permitir que los usuarios suban archivos mediante una API Para que puedan almacenar documentos relacionados en la aplicación</td>
+    <td>Escenario 1: Archivo Subido Correctamente<br>Dado que se tiene acceso a la API para subir archivos, Cuando se envie un archivo válido para ser almacenado, Entonces el archivo se sube correctamente y recibo una confirmación.<br>Escenario 2: Archivo Inválido<br>Dado que se tiene acceso a la API para subir archivos, Cuando se intente subir un archivo con un formato no permitido o que excede el tamaño límite, Entonces la solicitud es rechazada y recibo un mensaje de error específico.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS12</td>
+    <td>Get User Activity Log</td>
+    <td>Como desarrollador de GreenSync Quiero obtener el registro de actividad de un usuario mediante una API Para  auditar sus acciones y asegurarme de que la aplicación sea utilizada correctamente</td>
+    <td>Escenario 1: Registro de Actividad Encontrado<br>Dado que se tiene acceso a la API para obtener el registro de actividad de un usuario, Cuando se solicite  el registro de un usuario existente, Entonces se recibe un historial detallado de las acciones realizadas por el usuario en un formato JSON válido.<br>Escenario 2: Registro de Actividad No Encontrado<br>Dado que se tiene acceso a la API para obtener el registro de actividad de un usuario, Cuando se solicite el registro de un usuario que no tiene actividad registrada, Entonces se recibe un mensaje indicando que no se encontraron registros de actividad para ese usuario.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS13</td>
+    <td>Post Data Backup</td>
+    <td>Como desarrollador de GreenSync Quiero crear copias de seguridad de los datos mediante una API Para  proteger la información y asegurar la recuperación en caso de un fallo del sistema</td>
+    <td>Escenario 1: Copia de Seguridad Creada Correctamente<br>Dado que se tiene acceso a la API para crear copias de seguridad, Cuando se envie una solicitud con los datos correctos, Entonces la copia de seguridad se crea correctamente y recibo una confirmación.<br>Escenario 2: Error al Crear la Copia de Seguridad<br>Dado que se tiene acceso a la API para crear copias de seguridad, Cuando se intenta crear una copia de seguridad y ocurre un error, Entonces se recibe un mensaje indicando el problema y los pasos a seguir.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS14</td>
+    <td>Get Data Restore</td>
+    <td>Como desarrollador de GreenSync Quiero restaurar los datos desde una copia de seguridad mediante una API Para  recuperar la información en caso de un fallo del sistema</td>
+    <td>Escenario 1: Restauración de Datos Exitosa<br>Dado que se tiene acceso a la API para restaurar datos desde una copia de seguridad, Cuando se envie una solicitud válida para restaurar datos, Entonces los datos se restauran correctamente y recibo una confirmación.<br>Escenario 2: Error al Restaurar los Datos<br>Dado que se tiene acceso a la API para restaurar datos desde una copia de seguridad, Cuando se intente restaurar datos y ocurre un error, Entonces se recibe un mensaje indicando el problema y los pasos a seguir.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TS15</td>
+    <td>Get Error Log Information</td>
+    <td>Como desarrollador de GreenSync Quiero  obtener la información de los errores registrados mediante una API Para poder realizar análisis y correcciones</td>
+    <td>Escenario 1: Información de Errores Encontrada<br>Dado que se tiene acceso a la API para obtener información de errores registrados, Cuando se solicite información de un error específico, Entonces se recibe los detalles del error en un formato JSON válido.<br>Escenario 2: Información de Errores No Encontrada<br>Dado que se tiene acceso a la API para obtener información de errores registrados, Cuando se solicite información de un error que no está registrado, Entonces se recibe un mensaje indicando que no se encontró información sobre el error.</td>
+    <td></td>
+  </tr>
+</tbody></table>
 ## **3.3. Impact Mapping**
 ## **3.4. Product Backlog**
 

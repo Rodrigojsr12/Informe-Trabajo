@@ -68,7 +68,7 @@
         <td>1.3</td>
         <td>31/08/2024</td>
         <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
-        <td>Implementación del Impact Mapping</td>
+        <td>Implementación del User Persona e Impact Mapping</td>
     </tr>
    <tr>
         <td>1.4</td>

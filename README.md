@@ -25,8 +25,8 @@
 |     |    |
 |            |     |
 |      |     |
-|               |      |
-|           |      |
+| Salvador Rodríguez, Rodrigo Jesús      |  U202213646    |
+
 
 
 
@@ -63,6 +63,24 @@
         <td>29/08/2024</td>
         <td>Alejandro Nicolás Barturen Guzmán - U202214406</td>
         <td>Implementación de las US y el to-be map</td>
+    </tr>
+  <tr>
+        <td>1.3</td>
+        <td>31/08/2024</td>
+        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
+        <td>Implementación del Impact Mapping</td>
+    </tr>
+   <tr>
+        <td>1.4</td>
+        <td>01/09/2024</td>
+        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
+        <td>Implementación del Product Backlog y su entrevista</td>
+    </tr>
+   <tr>
+        <td>1.5</td>
+        <td>02/09/2024</td>
+        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
+        <td>Realización del Sprint Planning 1 y Sprint Backlog 1</td>
     </tr>
 </table>
 

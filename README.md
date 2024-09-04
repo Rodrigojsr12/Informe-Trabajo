@@ -120,7 +120,7 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo3-OpenSource-SW
     - [**1.2.2.2. Lean UX Assumptions**](#1222-lean-ux-assumptions)
     - [**1.2.2.3. Lean UX Hypothesis Statements**](#1223-lean-ux-hypothesis-statements)
     - [**1.2.2.4. Lean UX Canvas**](#1224-lean-ux-canvas)
-  - [**1.3. Segmentos objetivo**](#13-segmentos-objetivo)
+  - [**1.3. Segmento objetivo**](#13-segmento-objetivo)
 - [ **Capítulo II: Requirements Elicitation \& Analysis**](#-capítulo-ii-requirements-elicitation--analysis)
   - [**2.1. Competidores**](#21-competidores)
     - [**2.1.1. Análisis competitivo**](#211-análisis-competitivo)
@@ -414,7 +414,7 @@ ambientales locales e internacionales.
 ##### 1.2.2.1. Lean UX Canvas
 ![image](imgs/lean-canvas.png)
 
-## **1.3. Segmentos objetivo**
+## **1.3. Segmento objetivo**
 
 En los últimos años, las empresas globales han intensificado sus esfuerzos para lograr operaciones más sostenibles y eficientes. Según un informe de Deloitte (2023), se estima que más del 70% de las empresas de manufactura en América del Norte y Europa están priorizando la sostenibilidad en sus operaciones, como respuesta a las crecientes regulaciones ambientales y la presión del mercado para reducir su huella de carbono. A nivel mundial, se proyecta que para 2030, el 40% de las compañías de manufactura adoptarán tecnologías avanzadas para la gestión de la cadena de suministro, lo que permitirá una reducción del 25% en costos operativos y un aumento significativo en la eficiencia logística.
 

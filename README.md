@@ -88,10 +88,11 @@
 
 URL del repositorio de la Organizacion: <https://github.com/Grupo3-OpenSource-SW56/Informe-Trabajo>
 
-## STUDENT OUTCOMES
+## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó la definición de la Startup Profile, Impact Mapping, Product Backlog, Sprint Planning y Sprint Backlog 1. Una característica a tomar en cuenta  es la alineación de objetivos estratégicos con tareas específicas, priorizando funcionalidades esenciales para maximizar el valor del producto.|Se logró realizar un trabajo a tiempo y aceptable, pues cumplimos con todas las partes del trabajo, de tal manera que se pueda entregar un trabajo digno. El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó la definición de la Startup Profile, Impact Mapping, Product Backlog, Sprint Planning y Sprint Backlog 1. Una característica a tomar en cuenta  es la alineación de objetivos estratégicos con tareas específicas, priorizando funcionalidades esenciales para maximizar el valor del producto. <br> **Alejandro Barturen** <br> TB1:|Se logró realizar un trabajo a tiempo y aceptable, pues cumplimos con todas las partes del trabajo, de tal manera que se pueda entregar un trabajo digno. El documento elaborado proporciona una referencia escrita para quienes busquen entender en profundidad los procesos de planificación, desarrollo y despliegue del proyecto en elaboración y corrección constante.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó el proceso de entrevistas en base a los segmentos objetivos seleccionados. Se comunicó oralmente a través de las personas entrevistadas nuestro objetivo y lo que esperamos hacer en el proyecto. <br> **Alejandro Barturen** <br> TB1:|Como equipo pudimos establecer medios de comunicación como las redes sociales, para lograr entregar un trabajo integral pese a la limitación de los plazos ajustados para los avances del proyecto.|
 
 # <font color="red">**Contenido**</font>
 ### Tabla de contenidos
@@ -242,7 +243,10 @@ Visión: EcoRoute será una de las principales causas en la reducción de la con
         <td> <img src="imgs/integrante-barturen.png"></td>
         <td>Mi nombre es Alejandro Nicolas Barturen Guzman. Tengo 20 años y estoy estudiando la carrera de ingeniería de software en la UPC y me encuentro en 5to ciclo. Soy una persona imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También me considero  colaborativo y ordenado  lo que facilita el trabajo en equipo con mis compañeros.Tengo conocimiento  de los lenguajes de programación C++, Python, Java y Javascript. Además, tengo conocimiento de UI,  UX  y software de control de versiones. </td>
     </tr>
-
+<tr>
+        <td> <img src="imgs/"></td>
+        <td>Me llamo Rodrigo Jesús Salvador Rodríguez, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to Ciclo. Tengo conocimientos de lenguaje C++, C#, Python, también cuento con aprendizaje acerca de los sistemas operativos y deseo seguir expandiendo más mi conocimiento. Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal. </td>
+    </tr>
 </table>
 
 ## **1.2. Solution Profile**

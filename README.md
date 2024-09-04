@@ -693,6 +693,14 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
+* User Persona de Empresa Manufactura
+  
+![image](imgs/UserPersona2.png)
+
+* User Persona de Empresa de Logística y Transporte
+
+![image](imgs/UserPersona1.png)
+
 ### **2.3.2. User Task Matrix**
 ### **2.3.3. User Journey Mapping**
 ### **2.3.4. Empathy Mapping**
@@ -704,7 +712,7 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 
 ## **3.1. To-Be Scenario Mapping**
 **Segmento Objetivo: Empresa Manufactura**
-\
+
 <table><thead>
   <tr>
     <th>Phases</th>
@@ -737,8 +745,7 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
   </tr>
 </tbody>
 </table>
-\
-\
+
 **Segmento Objetivo: Empresa de Logística y Transporte** 
 <table><thead>
   <tr>
@@ -1210,7 +1217,15 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
     <td></td>
   </tr>
 </tbody></table>
+
 ## **3.3. Impact Mapping**
+
+![image](ImpactMapping1.png)
+
+![image](imgs/ImpactMapping2.png)
+
+
+Enlace para acceder al [Creately]([https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk](https://app.creately.com/d/zMD1bsCcWHr/edit))
 ## **3.4. Product Backlog**
 
 # <font color="red">**Capítulo IV: Product Design**</font>

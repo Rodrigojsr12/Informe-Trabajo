@@ -11,9 +11,9 @@
 
 <br>
 <h3 align="center"> Desarrollo de Aplicaiones Open Source - SW56 </h3>
-<h3 align="center"> Profesor del Curso:  </h3>
+<h3 align="center"> Profesor del Curso: Efraín Ricardo Bautista Ubillús </h3>
 <h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
-<h3 align="center"> EMPRESA DE INICIO: GreenSync </h3>
+<h3 align="center"> STARTUP: GreenSync </h3>
 
 <h3 align="center"> PRODUCTO: "EcoRoute"</h3>
 
@@ -32,7 +32,7 @@
 
 </div>
 
-<h3 align="center"> 2024 </h3>
+<h3 align="center"> 2024-02 </h3>
 
 <br>
 
@@ -244,7 +244,7 @@ Visión: EcoRoute será una de las principales causas en la reducción de la con
         <td>Mi nombre es Alejandro Nicolas Barturen Guzman. Tengo 20 años y estoy estudiando la carrera de ingeniería de software en la UPC y me encuentro en 5to ciclo. Soy una persona imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También me considero  colaborativo y ordenado  lo que facilita el trabajo en equipo con mis compañeros.Tengo conocimiento  de los lenguajes de programación C++, Python, Java y Javascript. Además, tengo conocimiento de UI,  UX  y software de control de versiones. </td>
     </tr>
 <tr>
-        <td> <img src="imgs/"></td>
+        <td> <img src="imgs/integrante_salvador.png"></td>
         <td>Me llamo Rodrigo Jesús Salvador Rodríguez, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to Ciclo. Tengo conocimientos de lenguaje C++, C#, Python, también cuento con aprendizaje acerca de los sistemas operativos y deseo seguir expandiendo más mi conocimiento. Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal. </td>
     </tr>
 </table>

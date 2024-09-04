@@ -226,10 +226,12 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo3-OpenSource-SW
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
-GreenSync es una startup innovadora que se centra en ofrecer una solución  a las empresas ayudando a optimizar sus  cadenas de suministros y volverlas  más sostenibles y eficientes.Todo esto haciendo uso de su plataforma,EcoRoute. Ofrece servicios que involucran desde el análisis de los proveedores para medir su eficiencia y cumplimiento con los estándares medioambientales,  Supervisión de las operaciones en la cadena de suministros y Análisis del impacto ambiental, hasta Optimización de procesos logísticos e integración de sistemas existentes. Proporcionando toda esta información  mediante la intuitiva plataforma web se espera que las empresas que puedan tomar la mejor decisión en términos de ambiente y logísticos  
+GreenSync es una startup innovadora que se centra en ofrecer una solución  a las empresas ayudando a optimizar sus  cadenas de suministros y volverlas  más sostenibles y eficientes.Todo esto haciendo uso de su plataforma,EcoRoute. Ofrece servicios que involucran desde el análisis de los proveedores para medir su eficiencia y cumplimiento con los estándares medioambientales,  Supervisión de las operaciones en la cadena de suministros y Análisis del impacto ambiental, hasta Optimización de procesos logísticos e integración de sistemas existentes. Proporcionando toda esta información  mediante la intuitiva plataforma web se espera que las empresas que puedan tomar la mejor decisión en términos de ambiente y logísticos.  
 
-**Misión**: Ayudar a la preservación del medio ambiente a la vez de aumentar la eficiencia de las rutas de suministros de las empresas \
-**Visión**: EcoRoute será una de las principales causas en la reducción de la contaminación y destaca como una de las principales plataformas destinadas a la gestion de suministros
+**Misión**: Ayudar a la preservación del medio ambiente a la vez de aumentar la eficiencia de las rutas de suministros de las empresas. 
+\
+\
+**Visión**: EcoRoute será una de las principales causas en la reducción de la contaminación y destaca como una de las principales plataformas destinadas a la gestion de suministros.
 
 
 ### **1.1.2. Perfiles de integrantes del equipo**
@@ -413,6 +415,12 @@ ambientales locales e internacionales.
 ![image](imgs/lean-canvas.png)
 
 ## **1.3. Segmentos objetivo**
+
+En los últimos años, las empresas globales han intensificado sus esfuerzos para lograr operaciones más sostenibles y eficientes. Según un informe de Deloitte (2023), se estima que más del 70% de las empresas de manufactura en América del Norte y Europa están priorizando la sostenibilidad en sus operaciones, como respuesta a las crecientes regulaciones ambientales y la presión del mercado para reducir su huella de carbono. A nivel mundial, se proyecta que para 2030, el 40% de las compañías de manufactura adoptarán tecnologías avanzadas para la gestión de la cadena de suministro, lo que permitirá una reducción del 25% en costos operativos y un aumento significativo en la eficiencia logística.
+
+De manera similar, las empresas de logística y transporte están bajo una presión creciente para optimizar sus operaciones. Con el aumento de los costos de combustible y la necesidad urgente de reducir las emisiones de CO₂, se prevé que para 2025, el 60% de las compañías de logística en regiones clave como Asia y América del Sur invertirán en soluciones tecnológicas para mejorar la eficiencia en el uso de combustible y reducir el tiempo de inactividad de sus flotas. Esto se ve impulsado por la tendencia hacia el "transporte verde", una iniciativa que busca mitigar el impacto ambiental y que ya ha sido adoptada por más de la mitad de las principales compañías de transporte a nivel mundial.
+
+Los segmentos objetivos enfocados a este proyecto son los siguientes:
 <table>
   <tr>
     <td></td>

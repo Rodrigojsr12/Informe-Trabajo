@@ -1220,12 +1220,12 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 
 ## **3.3. Impact Mapping**
 
-![image](ImpactMapping1.png)
+![image](imgs/ImpactMapping1.png)
 
 ![image](imgs/ImpactMapping2.png)
 
 
-Enlace para acceder al [Creately]([https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk](https://app.creately.com/d/zMD1bsCcWHr/edit))
+Enlace para acceder al [Creately]((https://app.creately.com/d/zMD1bsCcWHr/edit))
 ## **3.4. Product Backlog**
 
 # <font color="red">**Capítulo IV: Product Design**</font>

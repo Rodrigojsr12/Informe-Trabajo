@@ -593,29 +593,31 @@ Los segmentos objetivos enfocados a este proyecto son los siguientes:
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 
-**1. Enfoque en empresas medianas y sectores desatendidos:**\
-
-**Estrategia:** 
-Aprovechar la brecha del mercado entre empresas medianas y sectores que requieren soluciones sostenibles más accesibles, donde los competidores como SAP Ariba y JAGGAER pueden ser percibidos como demasiado costosos o complejos.\
+**1. Enfoque en empresas medianas y sectores desatendidos:**
 \
+**Estrategia:** 
+Aprovechar la brecha del mercado entre empresas medianas y sectores que requieren soluciones sostenibles más accesibles, donde los competidores como SAP Ariba y JAGGAER pueden ser percibidos como demasiado costosos o complejos.
+
 **Tácticas:**
 - Diseñar planes de suscripción escalonados y flexibles que sean accesibles para empresas de tamaño medio, destacando la relación costo-beneficio.
 - Realizar campañas de marketing digital específicas dirigidas a sectores como manufactura y logística que buscan optimizar su cadena de suministro con soluciones sostenibles.
-\
-**2. Fortalecimiento de la presencia digital y marketing de contenidos:**
 
-**Estrategia:**
-Mejorar la visibilidad y presencia digital de GreenSync mediante una estrategia de marketing de contenidos centrada en la sostenibilidad y la eficiencia de la cadena de suministro, aprovechando las limitaciones de los competidores en marketing digital específico.\
+
+**2. Fortalecimiento de la presencia digital y marketing de contenidos:**
 \
+**Estrategia:**
+Mejorar la visibilidad y presencia digital de GreenSync mediante una estrategia de marketing de contenidos centrada en la sostenibilidad y la eficiencia de la cadena de suministro, aprovechando las limitaciones de los competidores en marketing digital específico.
+
 **Tácticas:**
 - Crear una serie de blogs, guías, y estudios de caso que aborden problemas comunes en la gestión sostenible de la cadena de suministro y cómo EcoRoute proporciona soluciones efectivas.
 - Implementar una estrategia de SEO (Optimización de Motores de Búsqueda) para posicionar a GreenSync como líder en temas de sostenibilidad y eficiencia logística, superando a competidores en términos de visibilidad en línea.
 - Desarrollar webinars y podcasts sobre tendencias en sostenibilidad y tecnología en la cadena de suministro para atraer a un público más amplio y educar al mercado objetivo.
-\
-\
+
+
 **3. Refuerzo de la comunicación de beneficios financieros junto a los de sostenibilidad:**
+\
 **Estrategia:**
-Posicionar a EcoRoute como no solo una solución sostenible, sino también una herramienta para ahorrar costos y mejorar la rentabilidad, diferenciándose de competidores que pueden estar más centrados únicamente en sostenibilidad o eficiencia operativa.\
+Posicionar a EcoRoute como no solo una solución sostenible, sino también una herramienta para ahorrar costos y mejorar la rentabilidad, diferenciándose de competidores que pueden estar más centrados únicamente en sostenibilidad o eficiencia operativa.
 \
 **Tácticas:**
 - Desarrollar una calculadora de ROI (Retorno de Inversión) en el sitio web para mostrar a los clientes potenciales los beneficios financieros de usar EcoRoute.
@@ -1227,6 +1229,58 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 
 Enlace para acceder al [Creately](https://app.creately.com/d/zMD1bsCcWHr/edit)
 ## **3.4. Product Backlog**
+
+| # Orden | User Story ID | Título | Descripción| Story Points |
+|:-:|:-:|-|:-|:-:|
+|1|US03|Redirección a la Plataforma|**Como** visitante de la landing page **Quiero** un enlace claro para acceder a la plataforma completa **Para** explorar todas las funcionalidades.|1|
+|2|US04|Análisis de Costos de Suministro|**Como** gerente de una Empresa de Manufactura **Quiero** acceder a gráficos de desempeño del suministro **Para** identificar tendencias que impactan en los costos.|2|
+|3|US05|Reporte de Impacto Ambiental de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** recibir un reporte mensual del impacto ambiental de cada proveedor **Para** tomar decisiones de selección y descontinuación.|3|
+|4|US06|Alertas de Inventario Bajo|**Como** gerente de una Empresa de Manufactura **Quiero** recibir alertas cuando los niveles de inventario estén bajos **Para** evitar desabastecimientos críticos.|3|
+|5|US10|Control de Calidad Automático|**Como** gerente de una Empresa de Manufactura **Quiero** recibir notificaciones automáticas cuando se detecten desviaciones **Para** tomar medidas inmediatas de corrección.|3|
+|6|US11|Optimización de Procesos Productivos|**Como** gerente de una Empresa de Manufactura **Quiero** identificar procesos ineficientes en tiempo real **Para** mejorar el flujo de trabajo.|3|
+|7|US16|Estimación de demanda de inventario|**Como** gerente de una Empresa de Manufactura **Quiero** pronosticar la demanda de inventario **Para** planificar mejor las compras de materiales.|5|
+|8|US17|Sistema de Feedback de Empleados en Planta|**Como** gerente de una Empresa de Manufactura **Quiero** implementar un sistema de feedback de empleados en planta **Para** mejorar continuamente los procesos|3|
+|9|US18|Gestión de Recursos Humanos en Planta|**Como** gerente de una Empresa de Manufactura **Quiero** gestionar los recursos humanos en planta de manera eficiente **Para** maximizar la productividad.|5|
+|10|US19|Notificación de Desviaciones de Desempeño|**Como** gerente de una Empresa de Logística y Transporte **Quiero** recibir alertas cuando el rendimiento de un vehículo sea inferior al esperado **Para** tomar medidas correctivas inmediatas.|3|
+|11|US21|Monitoreo de Vehículos en Tiempo Real|**Como** gerente de una Empresa de Logística y Transporte **Quiero** monitorear en tiempo real la ubicación y estado de cada vehículo **Para** mejorar la eficiencia operativa.|3|
+|12|US27|Seguimiento de Paquetes en Tiempo Real|**Como** gerente de una Empresa de Logística y Transporte **Quiero** rastrear la ubicación de mi paquete en tiempo real **Para** saber cuándo llegará mi entrega.|3|
+|13|US28|Planificación de Entregas en Base a Prioridades|**Como** gerente de una Empresa de Logística y Transporte **Quiero** priorizar las entregas de alto valor o urgencia **Para** mejorar la satisfacción del cliente.|5|
+|14|US01|Solicitud de Información|**Como** visitante de la landing page **Quiero** solicitar información personalizada **Para** conocer cómo la plataforma puede beneficiar mi negocio.|5|
+|15|US02|Acceso Rápido a Información Clave|**Como** visitante de la landing page **Quiero** encontrar rápidamente información clave sobre la plataforma **Para** ahorrar tiempo.|3|
+|16|US07|Reportes de Oportunidades de Mejora|**Como** gerente de una Empresa de Manufactura **Quiero** recibir comunicados mensuales de oportunidades de mejora **Para** identificar y proponer acciones correctivas.|2|
+|17|US08|Chat de Comunicación Interna|**Como** gerente de una Empresa de Manufactura **Quiero** tener acceso a un chat de comunicación interna **Para** coordinar mejor con mis compañeros.|3|
+|18|US09|Gestión de Proveedores con Certificación Verde|**Como** gerente de una Empresa de Manufactura **Quiero** filtrar proveedores que tienen certificaciones ecológicas **Para** asegurarme de cumplir con los estándares de sostenibilidad.|5|
+|19|US12|Control de Desperdicio de Materiales|**Como** gerente de una Empresa de Manufactura **Quiero** monitorear el desperdicio de materiales **Para** minimizar pérdidas y mejorar la eficiencia.|5|
+|20|US13|Visualización de Desempeño de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** visualizar el desempeño histórico de los proveedores **Para** tomar decisiones estratégicas sobre su continuidad.|2|
+|21|US14|Evaluación Comparativa de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** comparar el desempeño de diferentes proveedores **Para** elegir aquellos que se alineen mejor con los objetivos de la empresa.|3|
+|22|US15|Sistema de Incentivos por Desempeño|**Como** gerente de una Empresa de Manufactura **Quiero** implementar un sistema de incentivos basado en el desempeño **Para** motivar a los empleados.|1|
+|23|US20|Informes de Rendimiento de Rutas|**Como** gerente de una Empresa de Logística y Transporte **Quiero** recibir informes detallados sobre el rendimiento de rutas **Para** optimizar el uso de recursos.|3|
+|24|US22|Comunicación Directa con Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** enviar mensajes directos a los conductores **Para** notificar cambios de ruta o instrucciones específicas.|3|
+|25|US23|Gestión de Mantenimiento Preventivo de Flotas|**Como** gerente de una Empresa de Logística y Transporte **Quiero** recibir alertas cuando un vehículo requiera mantenimiento preventivo **Para** evitar averías inesperadas.|3|
+|26|US24|Informes Personalizados para Clientes|**Como** gerente de una Empresa de Logística y Transporte **Quiero** generar informes personalizados de estado de entrega para los clientes **Para** mantenerlos informados.|2|
+|27|US25|Visualización de Consumo de Combustible|**Como** gerente de una Empresa de Logística y Transporte **Quiero** visualizar el consumo de combustible por vehículo **Para** identificar oportunidades de ahorro de energía.|5|
+|28|US26|Evaluación de Rendimiento de Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** recibir informes de evaluación del rendimiento de los conductores **Para** mejorar las políticas de capacitación y seguridad.|2|
+|29|US29|Verificación de Documentación de Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** verificar que todos los conductores tengan su documentación actualizada **Para** cumplir con las normativas legales y de seguridad.|5|
+|30|US30|Gestión de Horarios de Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** gestionar los horarios de los conductores **Para** asegurar el cumplimiento de las horas de trabajo y descanso.|2|
+|31|US31|Gestión de Reclamos de Clientes|**Como** gerente de una Empresa de Logística y Transporte **Quiero** gestionar los reclamos de clientes **Para** mejorar la satisfacción y fidelización.|3|
+|32|US32|Comparativa de Rendimiento entre Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** comparar el rendimiento de los conductores **Para** identificar y recompensar a los más eficientes.|2|
+|33|US33|Optimización de Rutas Dinámicas|**Como** gerente de una Empresa de Manufactura **Quiero** ajustar automáticamente las rutas en función del tráfico **Para** mejorar los tiempos de entrega.|3|
+|34|TS01|Post Organization|**Como** desarrollador de GreenSync **Quiero** registrar una nueva organización mediante una API **Para** visualizar las organizaciones afiliadas a nuestra aplicación.|3|
+|35|TS02|Get Organization|**Como** desarrollador de GreenSync **Quiero** obtener la información de una organización mediante una API **Para** mostrarla en la aplicación cuando se solicite.|3|
+|36|TS03|Post user|**Como** desarrollador de GreenSync **Quiero** registrar a un nuevo usuario mediante una API **Para** visualizar los usuarios afiliados a nuestra aplicación.|3|
+|37|TS04|Get user|**Como** desarrollador de GreenSync **Quiero** obtener la información de un usuario mediante una API **Para** mostrarla en la aplicación cuando se solicite.|3|
+|38|TS05|Post payment cards|**Como** desarrollador de GreenSync **Quiero** registrar la información de pago de las organizaciones mediante una API **Para** contar con la información para pagos futuros.|3|
+|39|TS06|Get payment cards|**Como** desarrollador de GreenSync **Quiero** obtener la información de pago de las organizaciones mediante una API **Para** recibir los pagos en la aplicación cuando sea solicitado.|3|
+|40|TS07|Get roles per user|**Como** desarrollador de GreenSync **Quiero** asignar roles a los usuarios mediante una API **Para** que puedan acceder a funcionalidades específicas según su rol.|5|
+|41|TS08|Get Roles per User|**Como** desarrollador de GreenSync **Quiero** obtener la información de los usuarios por sus roles mediante una API **Para** brindar la diferenciación de funcionalidades en la aplicación según su rol.|3|
+|42|TS09|Get Organization by Membership|**Como** desarrollador de GreenSync **Quiero** obtener la información de las organizaciones por sus membresías mediante una API **Para** brindar la diferenciación de funcionalidades en la aplicación según su membresía.|3|
+|43|TS10|Get File Download|**Como** desarrollador de GreenSync **Quiero** permitir que los usuarios descarguen archivos previamente subidos mediante una API **Para** que puedan acceder a sus documentos cuando lo necesiten.|5|
+|44|TS11|Post File Upload|**Como** desarrollador de GreenSync **Quiero** permitir que los usuarios suban archivos mediante una API **Para** que puedan almacenar documentos relacionados en la aplicación.|5|
+|45|TS12|Get User Activity Log|**Como** desarrollador de GreenSync **Quiero** obtener el registro de actividad de un usuario mediante una API **Para** auditar sus acciones y asegurarme de que la aplicación sea utilizada correctamente.|5|
+|46|TS13|Post Data Backup|**Como** desarrollador de GreenSync **Quiero** crear copias de seguridad de los datos mediante una API **Para** proteger la información y asegurar la recuperación en caso de un fallo del sistema.|5|
+|47|TS14|Get Data Restore|**Como** desarrollador de GreenSync **Quiero** restaurar los datos desde una copia de seguridad mediante una API **Para** recuperar la información en caso de un fallo del sistema.|5|
+|48|TS15|Get Error Log Information|**Como** desarrollador de GreenSync **Quiero** obtener la información de los errores registrados mediante una API **Para** poder realizar análisis y correcciones.|5|
+
 
 # <font color="red">**Capítulo IV: Product Design**</font>
 

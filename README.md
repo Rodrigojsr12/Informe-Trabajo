@@ -88,6 +88,10 @@
 
 URL del repositorio de la Organizacion: <https://github.com/Grupo3-OpenSource-SW56/Informe-Trabajo>
 
+## STUDENT OUTCOMES
+|Criterio especifico|Acciones realizadas|Conclusiones|
+|-|:-|-|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó la definición de la Startup Profile, Impact Mapping, Product Backlog, Sprint Planning y Sprint Backlog 1. Una característica a tomar en cuenta  es la alineación de objetivos estratégicos con tareas específicas, priorizando funcionalidades esenciales para maximizar el valor del producto.|Se logró realizar un trabajo a tiempo y aceptable, pues cumplimos con todas las partes del trabajo, de tal manera que se pueda entregar un trabajo digno. El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
 
 # <font color="red">**Contenido**</font>
 ### Tabla de contenidos

@@ -1,7 +1,7 @@
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 <h3 align="center"> Ingeniería de Software </h3>
-<h3 align="center"> Ciclo 2024 - 2 </h3>
+<h3 align="center"> Ciclo 2024-02 </h3>
 
 <br>
 
@@ -32,7 +32,7 @@
 
 </div>
 
-<h3 align="center"> 2024-02 </h3>
+<h3 align="center"> 2024 </h3>
 
 <br>
 
@@ -88,11 +88,12 @@
 
 URL del repositorio de la Organizacion: <https://github.com/Grupo3-OpenSource-SW56/Informe-Trabajo>
 
-## Student Outcomes
+# <font color="red">**Student Outcome**</font>
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
 |Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó la definición de la Startup Profile, Impact Mapping, Product Backlog, Sprint Planning y Sprint Backlog 1. Una característica a tomar en cuenta  es la alineación de objetivos estratégicos con tareas específicas, priorizando funcionalidades esenciales para maximizar el valor del producto. <br> **Alejandro Barturen** <br> TB1:|Se logró realizar un trabajo a tiempo y aceptable, pues cumplimos con todas las partes del trabajo, de tal manera que se pueda entregar un trabajo digno. El documento elaborado proporciona una referencia escrita para quienes busquen entender en profundidad los procesos de planificación, desarrollo y despliegue del proyecto en elaboración y corrección constante.|
 |Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó el proceso de entrevistas en base a los segmentos objetivos seleccionados. Se comunicó oralmente a través de las personas entrevistadas nuestro objetivo y lo que esperamos hacer en el proyecto. <br> **Alejandro Barturen** <br> TB1:|Como equipo pudimos establecer medios de comunicación como las redes sociales, para lograr entregar un trabajo integral pese a la limitación de los plazos ajustados para los avances del proyecto.|
+
 
 # <font color="red">**Contenido**</font>
 ### Tabla de contenidos
@@ -222,21 +223,19 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo3-OpenSource-SW
 - [**Bibliografía**](#bibliografía)
 - [**Anexos**](#anexos)
 
-# <font color="red">**Student Outcome**</font>
-
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
 GreenSync es una startup innovadora que se centra en ofrecer una solución  a las empresas ayudando a optimizar sus  cadenas de suministros y volverlas  más sostenibles y eficientes.Todo esto haciendo uso de su plataforma,EcoRoute. Ofrece servicios que involucran desde el análisis de los proveedores para medir su eficiencia y cumplimiento con los estándares medioambientales,  Supervisión de las operaciones en la cadena de suministros y Análisis del impacto ambiental, hasta Optimización de procesos logísticos e integración de sistemas existentes. Proporcionando toda esta información  mediante la intuitiva plataforma web se espera que las empresas que puedan tomar la mejor decisión en términos de ambiente y logísticos  
 
-Misión: Ayudar a la preservación del medio ambiente a la vez de aumentar la eficiencia de las rutas de suministros de las empresas \
-Visión: EcoRoute será una de las principales causas en la reducción de la contaminación y destaca como una de las principales plataformas destinadas a la gestion de suministros
+**Misión**: Ayudar a la preservación del medio ambiente a la vez de aumentar la eficiencia de las rutas de suministros de las empresas \
+**Visión**: EcoRoute será una de las principales causas en la reducción de la contaminación y destaca como una de las principales plataformas destinadas a la gestion de suministros
 
 
 ### **1.1.2. Perfiles de integrantes del equipo**
 <table BORDER>
     <tr>
-        <td>Perfiles de los integrantes</td>
+        <td>Perfiles de los integrantes del equipo</td>
         <td></td>
     </tr>
       <tr>
@@ -247,16 +246,18 @@ Visión: EcoRoute será una de las principales causas en la reducción de la con
         <td> <img src="imgs/integrante_salvador.png"></td>
         <td>Me llamo Rodrigo Jesús Salvador Rodríguez, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to Ciclo. Tengo conocimientos de lenguaje C++, C#, Python, también cuento con aprendizaje acerca de los sistemas operativos y deseo seguir expandiendo más mi conocimiento. Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal. </td>
     </tr>
+    
 </table>
 
 ## **1.2. Solution Profile**
 
-Product Name: EcoRoute  \
+Product Name: **EcoRoute**  
+
 Product Description:  \
 Monetización: EcoRoute funciona mediante un modelo de suscripción mensual, con una prueba gratuita en el Plan Básico de 10 días para que los nuevos usuarios puedan conocer cómo funciona el producto. Hay tres planes de suscripción disponibles para que el usuario sea libre de elegir el que mejor se acomode a sus necesidades. 
-- Plan Básico: Evaluación de proveedores y gestión básica de la cadena de suministro. 
-- Plan Profesional: Análisis de impacto ambiental y optimización de procesos. 
-- Plan Corporativo: Integración con sistemas existentes y consultoría especializada.
+- **Plan Básico**: Evaluación de proveedores y gestión básica de la cadena de suministro. 
+- **Plan Profesional**: Análisis de impacto ambiental y optimización de procesos. 
+- **Plan Corporativo**: Integración con sistemas existentes y consultoría especializada.
 
 
 ### **1.2.1 Antecedentes y problemática**
@@ -305,7 +306,8 @@ Este es un ejemplo específico que puede ser extrapolado a la gestión de cualqu
 ### How much (¿Cuánto?)
 
 **¿Cuál es la magnitud del problema?** \
-La magnitud del problema es significativa, afectando a múltiples industrias que dependen de cadenas de suministro complejas. La falta de sostenibilidad y eficiencia en estas cadenas no solo aumenta los costos operativos, sino que también contribuye significativamente a las emisiones de carbono y al agotamiento de recursos naturales.\
+La magnitud del problema es significativa, afectando a múltiples industrias que dependen de cadenas de suministro complejas. La falta de sostenibilidad y eficiencia en estas cadenas no solo aumenta los costos operativos, sino que también contribuye significativamente a las emisiones de carbono y al agotamiento de recursos naturales.
+
 **¿Qué porcentaje del personal de la industria se verá beneficiado por el servicio?**\
 Se estima que un alto porcentaje del personal involucrado en la gestión de la cadena de suministro, incluyendo gerentes de operaciones, responsables de sostenibilidad, y analistas, se beneficiará directamente del servicio. Esto podría representar entre un 20% y un 50% del personal en industrias que dependen en gran medida de cadenas de suministro extensas y complejas.
 
@@ -331,71 +333,79 @@ Este desafío surge de la falta de herramientas adecuadas para la evaluación de
 ### 1.2.2.2. Lean UX Assumptions
 
 - **Business Assumptions:**
-1. Creemos que nuestro usuarios necesitan herramientas sencillas para gestionar y mejorar la sostenibilidad y eficiencia de sus cadenas de suministros  
-2. Estas necesidades se pueden satisfacer proporcionando una plataforma que provee  análisis de proveedores, el seguimiento del impacto ambiental y la optimización logística. 
-3. Nuestros clientes iniciales serán empresas que busquen optimizar su cadena de suministro para reducir su huella ecológica. 
-4. El valor más importante que un cliente quiere de nuestro servicio es la capacidad de mejorar su sostenibilidad sin comprometer la eficiencia operativa. 
-5. El cliente también va a obtener informes detallados y recomendaciones personalizadas para la optimización logística y la reducción del impacto ambiental. 
-7. Vamos a obtener la mayoría de clientes mediante estrategias de marketing digital enfocadas en empresas ecológicas y asociaciones con organizaciones de sostenibilidad. 
-8. Vamos a obtener ingresos mediante planes de suscripción que ofrecen diferentes niveles de acceso a las herramientas de la plataforma. 
-9. Nuestra competencia en el mercado serán  otras plataformas de sostenibilidad empresarial y software de gestión de cadenas de suministro. 
-10. Vamos a tener ventaja frente a nuestra competencia debido a nuestra integración personalizada, consultoría especializada y enfoque exclusivo en la sostenibilidad de la cadena de suministro. 
-11. El mayor riesgo de del servicio es la posible falta de adopción por parte de empresas que aún no priorizan la sostenibilidad. 
-12. Lo resolveremos realizando campañas educativas que demuestren los beneficios financieros y operativos de una cadena de suministro sostenible. 
+1. **Creemos que nuestro usuarios necesitan** herramientas sencillas para gestionar y mejorar la sostenibilidad y eficiencia de sus cadenas de suministros  
+2. **Estas necesidades se pueden satisfacer** proporcionando una plataforma que provee  análisis de proveedores, el seguimiento del impacto ambiental y la optimización logística. 
+3. **Nuestros clientes iniciales serán** empresas que busquen optimizar su cadena de suministro para reducir su huella ecológica. 
+4. **El valor más importante que un cliente quiere de nuestro servicio es** la capacidad de mejorar su sostenibilidad sin comprometer la eficiencia operativa. 
+5. **El cliente también va a obtener** informes detallados y recomendaciones personalizadas para la optimización logística y la reducción del impacto ambiental. 
+6. **Vamos a obtener la mayoría de clientes mediante** estrategias de marketing digital enfocadas en empresas ecológicas y asociaciones con organizaciones de sostenibilidad. 
+7. **Vamos a obtener ingresos mediante** planes de suscripción que ofrecen diferentes niveles de acceso a las herramientas de la plataforma. 
+8. **Nuestra competencia en el mercado serán** otras plataformas de sostenibilidad empresarial y software de gestión de cadenas de suministro. 
+9. **Vamos a tener ventaja frente a nuestra competencia debido a** nuestra integración personalizada, consultoría especializada y enfoque exclusivo en la sostenibilidad de la cadena de suministro. 
+10. **El mayor riesgo de del servicio es** la posible falta de adopción por parte de empresas que aún no priorizan la sostenibilidad. 
+11. **Lo resolveremos realizando** campañas educativas que demuestren los beneficios financieros y operativos de una cadena de suministro sostenible. 
 
 - **User Assumptions:**
   
-¿Quién es el usuario? \
+**¿Quién es el usuario?** \
 El usuario es un gerente de cadena de suministro, director de sostenibilidad o ejecutivo de operaciones en empresas medianas y grandes que buscan cumplir con estándares ambientales más rigurosos.
 
-¿Qué problemas tiene nuestro producto?¿Resolver ? \
+**¿Qué problemas tiene nuestro producto?¿Resolver?** \
 Nuestro producto aborda problemas como la falta de transparencia en las cadenas de suministro y la dificultad para medir y reducir el impacto ambiental a lo largo del ciclo de vida de los productos.
 
-¿Qué características son importantes? \
+**¿Qué características son importantes?** \
 Los usuarios consideran cruciales características como la capacidad de evaluar la sostenibilidad de los proveedores, realizar análisis detallados del impacto ambiental y optimizar las rutas logísticas para mejorar la eficiencia operativa.
 
-¿Dónde encaja nuestro producto en su trabajo o vida? \
+**¿Dónde encaja nuestro producto en su trabajo o vida?** \
 EcoRoute encaja en el ámbito profesional del usuario como una herramienta esencial para la gestión diaria de la cadena de suministro y la sostenibilidad. Ayuda a los usuarios a cumplir con sus responsabilidades de optimización y sostenibilidad, proporcionando visibilidad constante sobre sus operaciones.
 
-¿Cuándo y cómo es nuestro producto? ¿Usado? \
+**¿Cuándo y cómo es nuestro producto? ¿Usado?** \
 Nuestro producto es utilizado diariamente para realizar un seguimiento en tiempo real de las operaciones logísticas y la sostenibilidad de los proveedores. También se utiliza durante momentos clave de planificación, como al evaluar nuevos proveedores, realizar auditorías ambientales o reestructurar las operaciones logísticas para reducir costos y emisiones
 
-¿Cómo debe verse nuestro producto y cómo debe comportarse? \
+**¿Cómo debe verse nuestro producto y cómo debe comportarse?** \
 EcoRoute debe presentar una interfaz limpia y moderna, con un diseño responsivo que permita el acceso desde múltiples dispositivos. Debe ser visualmente atractivo y fácil de navegar, con gráficos interactivos, mapas logísticos y paneles que presenten los datos de manera clara y comprensible. En cuanto a comportamiento, el producto debe ser rápido, eficiente y altamente confiable sin generar confusión ni sobrecargar al usuario con información innecesaria.
 
 - **Feature Assumptions:**
 
-**Creemos que** la plataforma debe tener capacidades de colaboración en tiempo real, permitiendo a los equipos internos compartir información \
+**Creemos que** la plataforma debe tener capacidades de colaboración en tiempo real, permitiendo a los equipos internos compartir información. \
 \
-**Creemos que** EcoRoute debería incorporar una función de análisis de riesgos ambientales y de suministro que identifique posibles vulnerabilidades en la cadena de suministro \
+**Creemos que** EcoRoute debería incorporar una función de análisis de riesgos ambientales y de suministro que identifique posibles vulnerabilidades en la cadena de suministro. \
 \
 **Creemos que** la plataforma debe incluir una función de seguimiento de certificaciones y regulaciones, que permita a los usuarios verificar el cumplimiento con normativas 
-ambientales locales e internacionales \  
+ambientales locales e internacionales.   
 \
-**Creemos que** EcoRoute debería incluir un módulo de capacitación interactivo y recursos educativos sobre prácticas sostenibles \
+**Creemos que** EcoRoute debería incluir un módulo de capacitación interactivo y recursos educativos sobre prácticas sostenibles. 
 
 
 ### **1.2.2.3. Lean UX Hypothesis Statements**
 
-- **Hypothesis Statement 01:**
-Creemos que al proporcionar herramientas integradas para evaluar proveedores y gestionar el impacto ambiental, las empresas podrán reducir significativamente su huella ecológica y mejorar la eficiencia de su cadena de suministro.
-Sabremos que esta hipótesis es correcta si observamos una reducción considerable en las emisiones de carbono y un aumento en la eficiencia operativa dentro de los primeros seis meses de implementación en empresas piloto.
-Cuando implementemos la plataforma en un grupo de empresas seleccionadas para monitorear y analizar los resultados.
+- **Hypothesis Statement 01:**\
+**Creemos que** al proporcionar herramientas integradas para evaluar proveedores y gestionar el impacto ambiental, las empresas podrán reducir significativamente su huella ecológica y mejorar la eficiencia de su cadena de suministro.
+\
+**Sabremos que** esta hipótesis es correcta si observamos una reducción considerable en las emisiones de carbono y un aumento en la eficiencia operativa dentro de los primeros seis meses de implementación en empresas piloto.
+\
+**Cuando** implementemos la plataforma en un grupo de empresas seleccionadas para monitorear y analizar los resultados.
 
-- **Hypothesis Statement 02:**
-Creemos que la capacidad de integrar EcoLogix con los sistemas existentes de las empresas (como ERP y CRM) permitirá una adopción más rápida y una mejora en la gestión de la cadena de suministro.
-Sabremos que esta hipótesis es correcta si el 80% de las empresas que usan la integración informan una reducción en el tiempo necesario para gestionar la cadena de suministro y una disminución en los errores operativos.
-Cuando realicemos una fase de prueba con empresas que integren EcoLogix con sus sistemas actuales y evaluemos los resultados en un período de tres meses.
+- **Hypothesis Statement 02:**\
+**Creemos que** la capacidad de integrar EcoLogix con los sistemas existentes de las empresas (como ERP y CRM) permitirá una adopción más rápida y una mejora en la gestión de la cadena de suministro.
+  \
+**Sabremos que** esta hipótesis es correcta si el 80% de las empresas que usan la integración informan una reducción en el tiempo necesario para gestionar la cadena de suministro y una disminución en los errores operativos.
+  \
+**Cuando** realicemos una fase de prueba con empresas que integren EcoLogix con sus sistemas actuales y evaluemos los resultados en un período de tres meses.
 
-- **Hypothesis Statement 03:**
-Creemos que la función de análisis de impacto ambiental proporcionará a las empresas datos precisos y útiles para tomar decisiones más sostenibles y responsables.
-Sabremos que esta hipótesis es correcta si las empresas que utilizan el análisis de impacto informan una mejora en la toma de decisiones y un alineamiento más cercano con sus objetivos de sostenibilidad.
-Cuando implementemos la funcionalidad en empresas y recojamos feedback sobre cómo estos datos están siendo utilizados para tomar decisiones.
+- **Hypothesis Statement 03:**\
+**Creemos que** la función de análisis de impacto ambiental proporcionará a las empresas datos precisos y útiles para tomar decisiones más sostenibles y responsables.
+  \
+**Sabremos** que esta hipótesis es correcta si las empresas que utilizan el análisis de impacto informan una mejora en la toma de decisiones y un alineamiento más cercano con sus objetivos de sostenibilidad.
+  \
+**Cuando** implementemos la funcionalidad en empresas y recojamos feedback sobre cómo estos datos están siendo utilizados para tomar decisiones.
 
-- **Hypothesis Statement 04:**
-Creemos que los informes detallados y las recomendaciones personalizadas de EcoLogix ayudarán a las empresas a identificar y corregir ineficiencias en su cadena de suministro de manera más efectiva.
-Sabremos que esta hipótesis es correcta si observamos una reducción del 10% en los costos operativos y una mejora del 25% en la optimización de rutas logísticas en las empresas que usan estos informes.
-Cuando implementamos la funcionalidad de informes y recomendaciones en empresas y monitoreamos los resultados a lo largo de un período de seis meses.
+- **Hypothesis Statement 04:**\
+**Creemos que** los informes detallados y las recomendaciones personalizadas de EcoLogix ayudarán a las empresas a identificar y corregir ineficiencias en su cadena de suministro de manera más efectiva.
+  \
+**Sabremos** que esta hipótesis es correcta si observamos una reducción del 10% en los costos operativos y una mejora del 25% en la optimización de rutas logísticas en las empresas que usan estos informes.
+  \
+**Cuando** implementamos la funcionalidad de informes y recomendaciones en empresas y monitoreamos los resultados a lo largo de un período de seis meses.
 
 ### **1.2.2.4. Lean UX Canvas**
 

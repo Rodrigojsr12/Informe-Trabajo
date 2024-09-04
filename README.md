@@ -300,9 +300,8 @@ La causa del problema radica en la falta de herramientas integradas y accesibles
 **¿Cómo se utilizará el producto?**\
 El producto se utilizará a través de una plataforma en línea que proporcionará herramientas para evaluar a los proveedores, gestionar el impacto ambiental y optimizar la logística. Los usuarios podrán acceder a análisis detallados, recibir recomendaciones basadas en datos y colaborar con otros departamentos dentro de la empresa para implementar mejoras en la cadena de suministro.
 
-**¿Cómo lograremos desarrollar la correcta gestión de cultivos de champiñones dentro de la plataforma?**\
-Este es un ejemplo específico que puede ser extrapolado a la gestión de cualquier tipo de suministro. En el caso de los champiñones, la plataforma permitiría a los usuarios gestionar el ciclo de producción y distribución, optimizando los recursos y minimizando el impacto ambiental. A través de la plataforma, los agricultores y distribuidores de champiñones podrían analizar sus procesos, reducir el desperdicio y asegurarse de que sus prácticas cumplan con los estándares de sostenibilidad.
-
+**¿Cómo lograremos desarrollar la correcta gestión sostenible dentro de la plataforma?**\
+Para lograr una gestión sostenible efectiva, se integrará herramientas avanzadas de análisis de datos y algoritmos de optimización logística, junto con la evaluación continua de proveedores basada en criterios ambientales. La plataforma permitirá a los usuarios configurar alertas automatizadas para revisar el desempeño de los proveedores, sugerir mejoras en los procesos logísticos, y proporcionar informes detallados sobre el impacto ambiental de cada operación. Además, se incluirán módulos de consultoría virtual que guiarán a las empresas en la implementación de prácticas sostenibles.
 
  
 ### How much (¿Cuánto?)

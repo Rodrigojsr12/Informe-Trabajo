@@ -697,11 +697,11 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 ### **2.3.1. User Personas**
 * User Persona de Empresa Manufactura
   
-![image](imgs/UserPersona2.png)
+![image](imgs/.png)
 
 * User Persona de Empresa de Logística y Transporte
 
-![image](imgs/UserPersona1.png)
+![image](imgs/.png)
 
 ### **2.3.2. User Task Matrix**
 ### **2.3.3. User Journey Mapping**
@@ -1226,8 +1226,6 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 
 ![image](imgs/ImpactMapping2.png)
 
-
-Enlace para acceder al [Creately](https://app.creately.com/d/zMD1bsCcWHr/edit)
 ## **3.4. Product Backlog**
 
 | # Orden | User Story ID | Título | Descripción| Story Points |

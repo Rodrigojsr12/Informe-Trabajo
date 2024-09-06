@@ -697,7 +697,7 @@ Para el registro de entrevistas se realizará tres entrevistas por segmento, dan
 |Entrevistado 1|Boris Dextre|
 |-|-|
 |Edad|25|
-|Distrito|Huarmey|
+|Ciudad|Huarmey|
 |<img width="1292" src="imgs/Entrevistado1.png">|Cuenta con 2 años trabajando como Gerente de Operaciones en desafíos de Logística, sostenibilidad y tecnología en su empresa. Considera que los desafíos en su empresa serían gestión de costos, escasez de conductores y interrupciones en la cadena de suministro. El uso de un sistema de gestión de transporte y plataforma en tiempo real sería una herramienta perfecta para la gestión de su empresa. Considera como sus frustraciones la falta de compañerismo e integración en procesos actuales y tiene como expectativas el soporte rápido y efectiva capacitación en nuevas herramientas logísticas.  |
 |Timing: 0:00-4:58 |URL: [upc-pre-202402-si729-SW56-Entrevista-1](https://youtu.be/WK_FgSXLd3U)|
 

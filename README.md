@@ -1471,7 +1471,7 @@ Para este Sprint 1 nos hemos tratado de enfocar en los task generales para la el
         <td>Asegurar que al recargar la página o acceder desde un link, este nos devuelva a la plataforma.</td>
         <td>4</td>
         <td>Rodrigo Salvador</td>
-        <td>To-Do</td>
+        <td>In Process</td>
     </tr>
     <tr>
         <td rowspan="1">US06</td>

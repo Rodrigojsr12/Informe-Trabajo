@@ -1327,8 +1327,159 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 ## **5.2.1. Sprint 1**
+
+Para este Sprint 1 nos hemos tratado de enfocar en los task generales para la elaboración del landing page. Por lo que nos dividiremos las tareas entre los integrantes del grupo para la elaboración correspondiente de las user stories.
+
 ### **5.2.1.1. Sprint Planning 1**
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-09-05</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>12:05 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Alejandro Barturen</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alejandro Pachas, Alejandro Barturen, Piero Martinez, José Chirito, Rodrigo Salvador
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Review Summary</td>
+            <td>
+                Implementación de los Capítulos 1, 2, 3, 4 y 5. En lo que se abarcó Segmento de Investigación, Requirements Specification, Design y el primer Sprint de implementación para el desarrollo de la landing page.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Retrospective Summary</td>
+            <td>
+                Se puede rescatar la puntualidad y el compromiso de algunos miembros del equipo para el desarrollo del trabajo en grupo, mientras que el resto se rescata el esfuerzo al presentarse de manera activa para la coordinación grupal.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint n Goal</td>
+            <td>
+                Elaboración de los Capítulos I, II, III, IV y Avance del Capítulo V hasta el Team Collaboration Insights during Sprint.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Velocity</td>
+            <td>
+                -
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                -
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### **5.2.1.2. Sprint Backlog 1**
+
+<img alt="image" src=".png">
+
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 1</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+        <td rowspan="1">US01</td>
+        <td rowspan="1">Solicitud de Información</td>
+        <td>UT01</td>
+        <td>Solicitar Información</td>
+        <td>Crear un formulario de contacto que envíe mensajes y gestione errores de envío con validación estándar.</td>
+        <td>4</td>
+        <td>Alejandro Barturen</td>
+        <td>To-do</td>
+    </tr>
+    <tr>
+        <td rowspan="1">US02</td>
+        <td rowspan="1">Acceso Rápido a Información Clave</td>
+        <td>UT02</td>
+        <td>Información Clave</td>
+        <td>Acceso rápido a la información necesaria que sea de suma importancia.</td>
+        <td>4</td>
+        <td>Alejandro Pachas</td>
+        <td>To-do</td>
+    </tr>
+     <tr>
+        <td rowspan="1">US03</td>
+        <td rowspan="1">Redirección a la Plataforma</td>
+        <td>UT03</td>
+        <td>Redirección a la Plataforma</td>
+        <td>Asegurar que al recargar la página o acceder desde un link, este nos devuelva a la plataforma.</td>
+        <td>4</td>
+        <td>Rodrigo Salvador</td>
+        <td>To-Do</td>
+    </tr>
+    <tr>
+        <td rowspan="1">US06</td>
+        <td rowspan="1">Alertas de Inventario Bajo</td>
+        <td>UT06</td>
+        <td>ALERTA</td>
+        <td>Configurar alertas automáticas que se activen cuando los niveles de inventario bajen de un umbral definido.</td>
+        <td>4</td>
+        <td>Piero Martine</td>
+        <td>To-Do</td>
+    </tr>
+   <tr>
+        <td rowspan="1">US08</td>
+        <td rowspan="1">Chat de Comunicación Interna</td>
+        <td>UT08</td>
+        <td>Chat Personal</td>
+        <td>Integrar un chat de comunicación interna donde los usuarios puedan comunicarse de forma efectiva.</td>
+        <td>4</td>
+        <td>José Chirito</td>
+        <td>To-Do</td>
+    </tr>
+  </thead>
+    </thead>
+</table>
+
 ### **5.2.1.3. Development Evidence for Sprint Review**
 ### **5.2.1.4. Testing Suite Evidence for Sprint Review**
 ### **5.2.1.5. Execution Evidence for Sprint Review**

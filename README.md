@@ -1420,7 +1420,7 @@ Para este Sprint 1 nos hemos tratado de enfocar en los task generales para la el
 
 ### **5.2.1.2. Sprint Backlog 1**
 
-<img alt="image" src=".png">
+<img alt="image" src="imgs/SprintBacklog1.png">
 
 <table>
     <thead>
@@ -1496,6 +1496,8 @@ Para este Sprint 1 nos hemos tratado de enfocar en los task generales para la el
   </thead>
     </thead>
 </table>
+
+Link del trello: https://trello.com/invite/b/66650f7cdb0183dfa4f57b32/ATTI78cc5b185caf54a6142efb039d2abd4eF07A3C5B/sprint-backlog-1
 
 ### **5.2.1.3. Development Evidence for Sprint Review**
 ### **5.2.1.4. Testing Suite Evidence for Sprint Review**

@@ -1422,6 +1422,8 @@ Para este Sprint 1 nos hemos tratado de enfocar en los task generales para la el
 
 <img alt="image" src="imgs/SprintBacklog1.png">
 
+Para esta entrega se distribuyeron las 5 primeras user stories que hemos decidido hacer por cada integrante del grupo, de esta forma decidimos organizarnos mejor y separar los avances de cada integrante del equipo.
+
 <table>
     <thead>
   <thead>
